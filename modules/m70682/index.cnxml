@@ -1,0 +1,147 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Substitutes for and Neutralizers of Leadership</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>m70682</md:content-id>
+  <md:title>Substitutes for and Neutralizers of Leadership</md:title>
+  <md:abstract/>
+  <md:uuid>43ecd87f-a6f5-4550-aa9a-a62fbd2ec3a2</md:uuid>
+</metadata>
+
+<content>
+ <list id="fs-idm399915952" list-type="enumerated" start-value="7">
+<item>What does the concept “substitute for leadership” mean?</item>
+</list>
+<para id="fs-idm412272464">Several factors have been discovered that can substitute for or neutralize the effects of leader behavior (see <emphasis effect="bold"><link target-id="ch13tab01" document=""/></emphasis>).<cite target-id="ch13rfin-89"><note class="reference" display="inline" id="ch13rfin-89">P.M. Podsakoff, B.P. Niehoff, S.B. MacKenzie, &amp; M.L. Williams. 1993. Do substitutes for leadership really substitute for leadership: An empirical examination of Kerr and Jermier’s situational leadership model. <emphasis effect="italics">Organizational Behavior and Human Decision Processes</emphasis> 54:1–44; S. Kerr. 1977. Substitutes for leadership: Some implications for organizational design. <emphasis effect="italics">Organization and Administrative Sciences</emphasis> 8:135–146; S. Kerr &amp; J.M. Jermier. 1978. Substitutes for leadership: Their meaning and measurement. <emphasis effect="italics">Organizational Behavior and Human Performance</emphasis> 22:375– 403; J. P. Howell &amp; P. W. Dorfman. 1981. Substitutes for leadership: Test of a construct. <emphasis effect="italics">Academy of Management Journal</emphasis> 24:714– 728; J.L. Pierce, R.B. Dunham, &amp; L.L. Cummings. 1984. Sources of environmental structuring and participant responses. <emphasis effect="italics">Organizational Behavior and Human Performance</emphasis> 33:214–242.</note></cite> <emphasis effect="italics">Substitutes</emphasis> for leadership behavior can clarify role expectations, motivate organizational members, or satisfy members (making it unnecessary for the leader to attempt to do so). In some cases, these substitutes supplement the behavior of a leader. Sometimes it is a group member’s characteristics that make leadership less necessary, as when a master craftsperson or highly skilled worker performs up to his or her own high standards without needing outside prompting. Sometimes the task’s characteristics take over, as when the work itself—solving an interesting problem or working on a familiar job—is intrinsically satisfying. Sometimes the characteristics of the organization make leadership less necessary, as when work rules are so clear and specific that workers know exactly what they must do without help from the leader (see <emphasis effect="italics">An Inside Look</emphasis> at flat management structure and the orchestra with no leader).</para>
+<table id="ch13tab01" summary=""><tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c4" align="center">Substitutes for and Neutralizers of Leader Behavior</entry>
+</row>
+<row>
+<entry namest="c1" nameend="c2"/>
+<entry namest="c3" nameend="c4" align="center">Leader Behavior Influenced</entry>
+</row>
+<row>
+<entry namest="c1" nameend="c2">Supportive or Neutralizer</entry>
+<entry>Substitute Leadership</entry>
+<entry>Instrumental Leadership</entry>
+</row>
+</thead>
+<tfoot>
+<row>
+<entry namest="c1" nameend="c4"><emphasis effect="italics">Source:</emphasis> Adapted from <emphasis effect="italics">Leadership in organizations</emphasis> by G. A. Yukl.</entry>
+</row>
+</tfoot>
+<tbody>
+<row>
+<entry namest="c1" nameend="c2">A. Subordinate Characteristics:</entry>
+<entry namest="c1" nameend="c2"/>
+</row>
+<row>
+<entry namest="c1" nameend="c2">1. Experience, ability, training</entry>
+<entry/>
+<entry>Substitute</entry>
+</row>
+<row>
+<entry namest="c1" nameend="c2">2. “Professional” orientation</entry>
+<entry>Substitute</entry>
+<entry>Substitute</entry>
+</row>
+<row>
+<entry namest="c1" nameend="c2">3. Indifference toward rewards offered by organization</entry>
+<entry>Neutralizer</entry>
+<entry>Neutralizer</entry>
+</row>
+<row>
+<entry namest="c1" nameend="c2">B. Task Characteristics:</entry>
+<entry namest="c1" nameend="c2"/>
+</row>
+<row>
+<entry namest="c1" nameend="c2">1. Structured, routine, unambiguous task</entry>
+<entry/>
+<entry>Substitute</entry>
+</row>
+<row>
+<entry namest="c1" nameend="c2">2. Feedback provided by task</entry>
+<entry/>
+<entry>Substitute</entry>
+</row>
+<row>
+<entry namest="c1" nameend="c2">3. Intrinsically satisfying task</entry>
+<entry>Substitute</entry>
+<entry/>
+</row>
+<row>
+<entry namest="c1" nameend="c2">C. Organization Characteristics:</entry>
+<entry namest="c1" nameend="c2"/>
+
+</row>
+<row>
+<entry namest="c1" nameend="c2">1. Cohesive work group</entry>
+<entry>Substitute</entry>
+<entry>Substitute</entry>
+</row>
+<row>
+<entry namest="c1" nameend="c2">2. Low position power (leader lacks control over organizational rewards)</entry>
+<entry>Neutralizer</entry>
+<entry>Neutralizer</entry>
+</row>
+<row>
+<entry namest="c1" nameend="c2">3. Formalization (explicit plans, goals, areas of responsibility)</entry>
+<entry/>
+<entry>Substitute</entry>
+</row>
+<row>
+
+<entry namest="c1" nameend="c2">4. Inflexibility (rigid, unyielding rules and procedures)</entry>
+<entry/>
+<entry>Neutralizer</entry>
+</row>
+<row>
+<entry namest="c1" nameend="c2">5. Leader located apart from subordinates with only limited communication possible</entry>
+<entry>Neutralizer</entry>
+<entry>Neutralizer</entry>
+</row>
+</tbody>
+</tgroup>
+</table><para id="fs-idm411775072"><emphasis effect="italics">Neutralizers</emphasis> of leadership, on the other hand, are not helpful; they prevent leaders from acting as they wish. A computer-paced assembly line, for example, prevents a leader from using initiating structure behavior to pace the line. A union contract that specifies that workers be paid according to seniority prevents a leader from dispensing merit-based pay. Sometimes, of course, neutralizers can be beneficial. Union contracts, for example, clarify disciplinary proceedings and identify the responsibilities of both management and labor. Leaders must be aware of the presence of neutralizers and their effects so that they can eliminate troublesome neutralizers or take advantage of any potential benefits that accompany them (such as the clarity of responsibilities provided by a union contract). If a leader’s effectiveness is being neutralized by a poor communication system, for example, the leader might try to remove the neutralizer by developing (or convincing the organization to develop) a more effective system.</para>
+<para id="fs-idm412444384">Followers differ considerably in their <emphasis effect="italics">focus of attention</emphasis> while at work, thereby affecting the effectiveness of the act of leadership. Focus of attention is an employee’s cognitive orientation while at work. It reflects what and how strongly an individual thinks about various objects, events, or phenomena while physically present at work. Focus of attention reflects an individual difference in that not all individuals have the same cognitive orientation while at work—some think a great deal about their job, their coworkers, their leader, or off-the-job factors, while others daydream.<cite target-id="ch13rfin-90"><note class="reference" display="inline" id="ch13rfin-90">D.G. Gardner, R.B. Dunham, L.L. Cummings, &amp; J.L. Pierce. 1989. Focus of attention at work: Construct definition and empirical validation. <emphasis effect="italics">Journal of Occupational Psychology</emphasis> 62:61–77.</note></cite> An employee’s focus of attention has both “trait” and “state” qualities. For example, there is a significant amount of minute-by-minute variation in an employee’s focus of attention (the “state” component), and there is reasonable consistency in the categories of events that employees think about while they are at work (the “trait” component).</para>
+<para id="fs-idm414005056">Research suggests that the more followers focus on off-job (nonleader) factors, the less they will react to the leader’s behaviors. Thus, a strong focus on one’s life “away from work” (for example, time with family and friends) tends to neutralize the motivational, attitudinal, and/or behavioral effects associated with any particular leader behavior. It has also been observed, however, that a strong focus on the leader, either positive or negative, enhances the impact that the leader’s behaviors have on followers.<cite target-id="ch13rfin-91"><note class="reference" display="inline" id="ch13rfin-91">D.G. Gardner, R.B. Dunham, L.L. Cummings, &amp; J.L. Pierce. 1987. Focus of attention at work and leader-follower relationships. <emphasis effect="italics">Journal of Occupational Behaviour</emphasis> 8:277–294.</note></cite></para>
+<note id="fs-idm398157264" class="managerial-leadership">
+<title>You Are Now the Leader</title>
+<para id="fs-idm410986304">Leading and managing are two very different things. Being a manager means something more than gaining authority or charge over former colleagues. With the title does come the power to affect company outcomes, but it also comes with something more: the power to shape the careers and personal growth of subordinates.</para>
+<para id="fs-idm386968560">According to Steve Keating, a senior manager at the Toro Company, it is important not to assume that being made a manager automatically makes you a leader. Rather, being a manager means having the <emphasis effect="italics">opportunity</emphasis> to lead. Enterprises need managers to guide processes, but the employees—the people—need a leader. Keating believes that leaders need a mindset that emphasizes people, and the leader’s job is to help the people in the organization to be successful. According to Keating, “If you don’t care for people, you can’t lead them” (Hakim 2017 n.p.).</para>
+<para id="fs-idm401239472">For someone who has been promoted over his peers, ground rules are essential. "Promotion doesn’t mean the end of friendship but it does change it," according to Keating. If a <emphasis effect="italics">peer</emphasis> has been promoted, rather than grouse and give in to envy, it is important to step back and look at the new manager; take a hard look at why the peer was promoted and what skill or characteristic made you a less appealing fit for the position (Hakim 2017).</para>
+<para id="fs-idm403799152">Carol Walker, president of Prepared to Lead, a management consulting firm, advises new managers to develop a job philosophy. She urges new managers to develop a core philosophy that provides a guide to the day-to-day job of leading. She urges managers to build up the people they are leading and work as a "servant leader." The manager’s perspective should be on employee growth and success. Leaders must bear in mind that employees don’t work for the manager; they work for the organization—and for themselves. Managers coordinate this relationship; they are not the center of it. Work should not be assigned haphazardly, but with the employee’s skills and growth in mind. “An employee who understands why she has been asked to do something is far more likely to assume true ownership for the assignment," Walker says (Yakowicz 2015 n.p.). A leader’s agenda should be on employee success, not personal glory. Employees are more receptive when they recognize that their leader is working not for their own success, but for the employee’s success.</para>
+<para id="fs-idm410078480">A survey from HighGround revealed one important item that most new managers and even many seasoned managers overlook: asking for feedback. Everyone has room for growth, even managers. Traditional management dictates a top-down style in which managers review subordinates. But many companies have found it beneficial to turn things around and ask employees, “How can I be a better manager?” Of course, this upward review only works if employees believe that their opinion will be heard. Managers need to carefully cultivate a rapport where employees don't fear reprisals for negative feedback. Listening to criticism from those you are leading builds trust and helps ensure that as a manager, you are providing the sort of leadership that employees need to be successful (Kauflin 2017). Showing respect and caring for employees by asking this simple question is <emphasis effect="italics">inspiring</emphasis>—an important aspect of leadership itself. Whether asking for feedback or focusing on an employee’s fit with a particular job description, a leader helps guide employees through the day-to-day, builds a positive culture, and helps employees improve their skills.</para>
+<para id="zip-idm391001472">Sources</para>
+<list id="fs-idm411121488" list-type="bulleted" bullet-style="none" class="no-style">
+<item id="fs-idm413528176">Hakim, Amy C. 2017. “When a Manager Becomes a Leader.” <emphasis effect="italics">Psychology Today.</emphasis> https://www.psychologytoday.com/blog/working-difficult-people/201706/when-manager-becomes-leader</item>
+<item id="fs-idm403413792">Yakowicz, Will. 2015. “How to Help a New Manager Become a Great Leader.” <emphasis effect="italics">Inc.</emphasis> https://www.inc.com/will-yakowicz/how-new-managers-become-great-leaders.html</item>
+<item id="fs-idm414030656">Kauflin, Jeff. 2017. “Every Manager Can Become A Better Leader By Asking This One Question.” <emphasis effect="italics">Forbes.</emphasis> https://www.forbes.com/sites/jeffkauflin/2017/04/21/every-manager-can-become-a-better-leader-by-asking-this-one-question/#3ca1eaff4ac1</item>
+</list>
+<list id="fs-idm391958272" list-type="enumerated" number-style="arabic" class="no-style">
+<title>Questions</title>
+<item>What do you think are the most important qualities in a leader? In a manager? Are your two lists mutually exclusive? Why?</item>
+<item>How do you think a leader can use feedback to model the growth process for employees?</item>
+</list>
+</note>
+<note id="fs-idm403235984" class="concept-check">
+<list id="fs-idm409793920" list-type="enumerated" number-style="arabic" class="no-style">
+<item>Identify and describe substitutes of leadership.</item>
+</list>
+</note>
+<section id="fs-idm400502256" class="section-summary">
+<list id="fs-idm413363904" list-type="enumerated" start-value="7">
+<item>What does the concept of “substitute for leadership” mean?</item>
+</list>
+<para id="fs-idm404286048">Characteristics of followers, tasks, and organizations can substitute for or neutralize many leader behaviors. Leaders must remain aware of these factors, no matter which perspective on leadership they adopt. Such awareness allows managers to use substitutes for, and neutralizers of, leadership to their benefit, rather than be stymied by their presence.</para>
+</section>
+  </content>
+
+</document>

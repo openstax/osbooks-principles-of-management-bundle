@@ -1,0 +1,1 @@
+A model of goal setting represents the conditions necessary to maximize goal-directed effort, motivation level. These conditions are Goal difficulty, Goal specificity, Goal acceptance, and Goal commitment.

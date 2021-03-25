@@ -1,0 +1,108 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Developing Technology and Innovation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>m70714</md:content-id>
+  <md:title>Developing Technology and Innovation</md:title>
+  <md:abstract/>
+  <md:uuid>d8892d07-b4fa-4d3d-b5ad-bc5e65daa06c</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm210265568" list-type="enumerated" start-value="2">
+<item>How do organizations develop technology and innovation?</item>
+</list>
+<para id="fs-idm216121200">There are a number of ways that organizations can develop and manage technology and innovation. We will focus on organization-level activities and the three strategic processes in this section of the chapter.</para>
+<para id="fs-idm200319760">In order for a firm to develop a successful management of technology and innovation strategy, it is imperative that the organization be readied for the effort. This requires agility because changes and adjustments to products and processes are filled with risk and uncertainty. However, agility is inherantly less efficiency if it is to be effective. Therefore, the management of technology and innovation must balance short-term efficiency with long-term effectiveness in the market if the firm is to add value and thrive in a changing environment. Strong dynamic capabilities are needed if the organization is going to be able to address the challenges of innovation and dynamic competition.<cite target-id="ch18rfin-4"><note class="reference" display="inline" id="ch18rfin-4">Teece D., Peterar M., Leih, S. (2016) “Dynamic capabilities and organizational agility: Risk, uncertainty, and strategy in the innovation economy” <emphasis effect="italics">California Management Review</emphasis>. 58(4). Pp. 13-35.</note></cite> There are four things the firm should do to balance the conflicting demands of being agile in a dynamic environment. These are:</para>
+<list id="fs-idm188138592" list-type="enumerated">
+<item>Design systems and processes that can identify, assess, and develop technology based opportunities (or protect from new technology threats). The systems and processes should be able to sense what is coming.</item>
+<item>Identify communication needs and efficiently turn data into information so that the right information can be available to make the best decision in a timely fashion. The current interest in big data and what it can tell firms is tied to the notion that we have a lot of bytes of data available because of computer technology that are not being used effectively or efficiently.</item>
+<item>Develop employees through training and learning opportunities. This becomes more critical as the competitive environment for the organization becomes more dynamic. The management of technology and innovation requires that all levels of the organization are involved and that efforts are made to ensure that employees are allowed to enhance their skills for themselves and the organization. The more dynamic the environment, the more important skill enhancement is for the firm and the individual.</item>
+<item>Use good change management processes to help the firm succeed in introducing newness into the organization. Many firms learned expensive lessons when desktop computers were introduced into the workplace. First, most managers did not type, so they did not adopt the new technology. Second, younger staff members were more likely to be comfortable with the new computers (even elated because the computer was better than they could afford at home), so knowledge power was turned upside down from the hierarchy and seniority. Third, many firms installed desktops with little or no training (because they were “upgraded typewriters”) while leaving the typewriters easily accessible. The result was that some companies deemed desktops a failure and sold the equipment at a loss. Obviously, desktop computers are now a vital tool in the workplace, but this just illustrates what happens when a good change management process that includes proper support systems, communication, and training is not implemented.</item>
+</list>
+<figure id="ch18fig06" class="scaled-down">
+<title>Key Management Activities</title>
+<media id="ch18media06" alt="A diagram illustrates the four key management activities." longdesc="18-6-longdesc.txt"><image mime-type="image/png" src="../../media/Exhibit 18-6 Key Management Activitiess.png"/></media>
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC-BY 4.0 license)</caption>
+</figure>
+<para id="fs-idm209936992">There are three basic organizational processes—buying and partnering, developing newness within the firm, and entrepreneurially exploiting a space in the environment. <emphasis effect="bold"><link target-id="ch18fig06" document=""/></emphasis> delineates the three types. Buying and partnering includes mergers and acquisitions, joint ventures, contractual agreements, and other forms of acquiring technology/innovation from external sources. Internal sources of new technology/innovation for the organization include research and development of new products as well as reconfiguring or developing new processes—ways of doing things. This can be organization structure or redesigning an assembly line. Adding robotics to a manufacturing process may be an internally driven process, or a firm may buy a robotics manufacturer to acquire the capability to add robotics to the assembly process.</para>
+<figure id="ch18fig07" class="scaled-down">
+<title>Three Methods of Creating New Technologies/Innovations</title>
+<media id="ch18media07" alt="A diagram shows the three methods to create new technologies and innovations." longdesc="18-7-longdesc.txt"><image mime-type="image/png" src="../../media/Exhibit 18-7 Three Methods of Creating New Technologies-Innovations.png"/></media>
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC-BY 4.0 license)</caption>
+</figure>
+<para id="fs-idm197268512">The third type of creating new technologies/innovations involves exploiting a space in the environment through entrepreneurial or new-business development activities. Michael Dell started Dell in his dormitory room at University of Texas. He wanted a better computer than he could buy, so he bought parts and assembled his own. Friends asked him to build one for them. He realized there was an innovative process of customizing computers and delivering directly from the manufacturer to the customer. Michael Dell’s exploitation of the custom-built, direct manufacturer-to-customer delivery led to a multibillion dollar business. <emphasis effect="bold"><link target-id="ch18tab01" document=""/></emphasis> lists the advantages and disadvantages of each of the technology/innovation creation methods.</para>
+<table id="ch18tab01" summary="">
+<title/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="center">Advantages and Disadvantages of Creation Methods</entry>
+</row>
+<row>
+<entry>Method</entry>
+<entry>Advantages</entry>
+<entry>Disadvantages</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><para id="fs-idm212699168">External Processes:</para>
+<para id="fs-idm216111920">M&amp;A, joint ventures, contractual relationships, cross-organizational projects, informal relationships</para></entry>
+<entry><list id="fs-idm214408128" list-type="enumerated" number-style="lower-alpha">
+<item>Quicker</item>
+<item>Blending rather than discovering</item>
+<item>Often less costly</item>
+</list></entry>
+<entry><list id="fs-idm196541728" list-type="enumerated" number-style="lower-alpha">
+<item>Requires bringing different firm cultures together</item>
+<item>Often leads to perception of winners and losers</item>
+<item>Not-invented-here syndrome</item>
+</list></entry>
+</row>
+<row>
+<entry><para id="fs-idm208003456">Internal Processes: R&amp;D</para></entry>
+<entry><list id="fs-idm193447088" list-type="enumerated" number-style="lower-alpha">
+<item>Clear ownership of the technology/innovation</item>
+<item>Legal protections may be stronger</item>
+</list></entry>
+<entry><list id="fs-idm212059008" list-type="enumerated" number-style="lower-alpha">
+<item>Often takes longer</item>
+<item>Key personnel may leave at a critical time</item>
+<item>Can be very costly</item>
+</list></entry>
+</row>
+<row>
+<entry><para id="fs-idm215441088">New Business/Entrepreneurship</para></entry>
+<entry><list id="fs-idm215598048" list-type="enumerated" number-style="lower-alpha">
+<item>Usually more agile and flexible in the marketplace</item>
+<item>Dedicated leadership—it is their “baby”</item>
+</list></entry>
+<entry><list id="fs-idm199584528" list-type="enumerated" number-style="lower-alpha">
+<item>Highest risk factor</item>
+<item>Lack of skills within the firm to do things besides innovation</item>
+<item>Usually have very little slack</item>
+</list></entry>
+</row>
+</tbody>
+</tgroup>
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC-BY 4.0 license)</caption>
+</table>
+<note id="fs-idm215912784" class="concept-check">
+<list id="fs-idm207809104" list-type="enumerated" number-style="arabic" class="no-style">
+<item>How do managers develop technology and innovation?</item>
+<item>What are the advantages and disadvantages of each creation method?</item>
+</list>
+</note>
+<section id="fs-idm215338864" class="section-summary">
+<list id="fs-idm211952560" list-type="enumerated" start-value="2">
+<item>How do organizations develop technology and innovation?</item>
+</list>
+<para id="fs-idm212665504">There are four things the firm should do to balance the conflicting demands of being agile in a dynamic environment. These are: design systems and processes, identify communication needs and efficiently turn data into information, develop employees through training and learning, and use good change management processes. There are three basic organizational processes—buying and partnering, developing newness within the firm, and entrepreneurially exploiting a space in the environment.</para>
+</section>
+ </content>
+
+</document>

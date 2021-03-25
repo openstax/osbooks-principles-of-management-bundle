@@ -1,0 +1,153 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Measuring and Evaluating Strategic Performance</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>m70656</md:content-id>
+  <md:title>Measuring and Evaluating Strategic Performance</md:title>
+  <md:abstract/>
+  <md:uuid>9bffd1cc-bb8d-4045-9cb0-b2a09a287034</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm249255952" list-type="enumerated" start-value="6">
+<item>How and why do managers evaluate the effectiveness of strategic plans?</item>
+</list>
+<para id="fs-idm233368832">The last step in the strategy cycle in <emphasis effect="bold"><link target-id="ch09fig03" document="m70651"/></emphasis> is measuring and evaluating performance. The “M” in SMART goals is also about measurement. A company’s actions need to be measured so that managers can understand if the firm’s strategic plans are working. Any action in a plan should be designed so that the people performing the action and the manager who is supervising employees can understand whether or not the action is accomplishing what it was designed to. You have been living in this sort of framework all of your life. For many life goals, standards exist to measure achievements. For example, students are given standardized tests to see if they are learning what they are expected to, and the results are used to assess the effectiveness of education at all levels.</para><para id="fs-idm254500256">In businesses, measurement is also a fact of life. Investors decide whether or not to invest in a particular company based on its performance, and publicly held companies are required to disclose their financial performance so investors can make informed decisions. So the overall performance of a business is often defined by its financial measures, but how do they make sure their financial performance will make investors happy? Strategy. Firms make strategic plans in order to be successful. This chapter has explained the steps of making those plans, but a final step closes the circle of the strategy cycle. Checking to see if that success is happening is as important as making the plans in the first place.</para>
+<para id="fs-idm244592048"><term>Performance measurement</term> comes in many forms, from financial reports to quality measures like defect rates. Any activity a firm can perform can have a performance measure developed to evaluate the success of that activity. <emphasis effect="bold"><link target-id="ch09tab02" document=""/></emphasis> lists a few common firm objectives and how actions to achieve them might be evaluated. Evaluation involves setting a performance standard, measuring the results of firm activities, and comparing the results to the standard. One specific form of evaluation is called <term>benchmarking</term>, a process in which the performance standard is based on another firm’s superior performance. In the hospitality industry, for example, Disney theme park operations are used as standards for other companies in the theme park industry. Universal theme parks, for example, likely compare their customer satisfaction to Disney’s in order to evaluate whether or not they are also offering a superior park experience to their customers.</para>
+<table id="ch09tab02" summary="">
+<title/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c4" align="center">Three Different Actions to Support a Differentiation Strategy and Ways to Measure Results</entry>
+</row>
+<row>
+<entry>Strategic Plan</entry>
+<entry>Tactical Plan</entry>
+<entry>Operational Plan</entry>
+<entry>Performance Measure</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><emphasis effect="bold">Product differentiation</emphasis></entry>
+<entry>Innovation</entry>
+<entry>Hire three engineers to develop new products.</entry>
+<entry>Number of new products launched</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Product differentiation</emphasis></entry>
+<entry>Increase customer satisfaction</entry>
+<entry>Improve customer service with hiring and training program for customer service associates.</entry>
+<entry>Customer complaints per 10,000 products sold</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Product differentiation</emphasis></entry>
+<entry>Quality improvement</entry>
+<entry>Reduce defective products by improving manufacturing process accuracy.</entry>
+<entry>Defect rate per 10,000 units produced</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC-BY 4.0 license)</caption>
+</table>
+<para id="fs-idm216163920">Performance evaluation closes the strategy cycle because of what managers do with the feedback they get in the evaluation process. When a manager compares performance to a standard, they are deciding whether or not the performance is acceptable or needs to be improved. The strategy cycle is a process managers use to achieve an advantage in the marketplace, and the measurement and evaluation stage tells managers whether the advantage is being achieved. If firm performance meets or exceeds objectives, then the manager reports the success to middle and upper-level managers. The company CEO may develop more ambitious objectives based on that success, and the strategy cycle starts over. If performance fails to meet objectives, the operational manager must develop new actions to try to meet the objectives or report to higher-level managers that the objectives cannot be met. In this case, a new round of operational planning begins, or upper managers examine their strategic plan to see if they need to make adjustments.</para>
+<para id="fs-idm245865024">The strategy process is always circular. Performance feedback becomes part of the strategic analysis of the firm’s capabilities and resources, and firm leadership uses the information to help develop better strategies for firm success.</para>
+<note id="fs-idm242323680" class="concept-check">
+<list id="fs-idm239873408" list-type="enumerated" number-style="arabic" class="no-style">
+<item>Why is performance evaluation critical in strategic planning?</item>
+<item>How does the strategic planning process inform itself?</item>
+</list>
+</note>
+<section id="fs-idm245693344" class="section-summary">
+<list id="fs-idm254325632" list-type="enumerated" start-value="7">
+<item>How and why do managers evaluate the effectiveness of strategic plans?</item>
+</list>
+<para id="fs-idm237895184">Performance evaluation is to determine if plans have been successful and identify any changes that might be necessary. This is done both at the end and the beginning of strategic planning because when managers measure firm activities and progress towards objectives, the information they learn by doing that measurement becomes part of the analysis they use to develop improved plans and objectives to keep the firm on track to fulfill their mission and improve their overall performance.</para>
+</section>
+<section id="fs-idm255639200" class="chapter-review"><title>Chapter Review Questions</title>
+<list id="fs-idm260324912" list-type="enumerated">
+<item>What does a mission statement explain about a firm that a vision statement does not?</item>
+<item>Describe the three levels of strategy and what a manager developing strategy at each level is concerned with.</item>
+<item>Give an example for why a firm would pursue each of the three grand strategies.</item>
+<item>What actions can help a firm grow?</item>
+<item>What managerial skills and actions are included in the planning process?</item>
+<item>Why are good goals important to the planning process?</item>
+<item>What are the strategic planning time frames? How do they work together?</item>
+<item>Why is performance measurement often the start of new strategy development?</item>
+</list>
+</section>
+<section id="fs-idm254574448" class="manage-skills"><title>Management Skills Application Exercises</title>
+<list id="fs-idm240536752" list-type="enumerated">
+<item><para id="fs-idm240277232">(Analytical Skills) You have recently completed a leadership development program, and your company has given you a retail store to manage. The employees at your store are diverse in terms of age, race, gender, and fluency in English. Your company has told you to set individual performance objectives for your employees to increase your store’s profitability.</para>
+<list id="fs-idm240438896" list-type="enumerated" number-style="upper-alpha">
+<item>What specific types of actions do you think you should include in a plan to increase profitability in a retail environment?</item>
+<item>Would you set the same performance objectives for different store roles, for example sales associates and cashiers?</item>
+<item>Should your employees be involved in creating their own performance objectives? Why or why not?</item>
+<item>Should your communication of performance goals be adapted for the diversity of the employees you supervise? How and why (or why not)?</item>
+</list></item>
+<item><para id="fs-idm260807008">(Ethical skills) You have probably experienced a situation in which you were not happy with the service you received as a customer of a business. Put yourself in the shoes of the manager of a business, and think about the following:</para>
+<list id="fs-idm239043824" list-type="enumerated" number-style="upper-alpha">
+<item>How does a company’s vision and mission impact your approach to trying to appease an unhappy customer?</item>
+<item>Imagine that the company follows a cost-leadership strategy and has a “no cash refunds” policy in order to reduce company costs. What kind of plan or rules would you develop for your employees to follow to deliver consistent customer service if a customer wants a refund?</item>
+<item>When might it be ethical to violate the rules you developed in (b) above in order to deliver the right response to a customer service problem?</item>
+</list></item>
+<item><para id="fs-idm261436208">(Personal skills) Use the strategy cycle (<emphasis effect="bold"><link target-id="ch09fig03" document="m70651"/></emphasis>) to outline a strategy for yourself. What is your personal vision and mission? Analyze your current situation, and develop three personal, professional, or educational goals or objectives that you would like to reach within the next five years. Brainstorm some strategies to achieve those goals. Even though you can’t really implement them in the context of this exercise, think about performance measures you might use to track your progress towards your objectives.</para></item>
+</list>
+</section>
+<section id="fs-idm216161776" class="manage-exercises"><title>Managerial Decision Exercises</title>
+<list id="fs-idm236075888" list-type="enumerated">
+<item><para id="fs-idm236214000">Each of the following statements is a goal or objective, but it is not expressed very clearly. Rewrite each statement as a SMART goal, and be ready to explain what you had to change to make it SMART.</para>
+<list id="fs-idm255705856" list-type="enumerated" number-style="lower-alpha">
+<item>Amazon wants to improve product delivery times.</item>
+<item>Starbucks baristas should make customized drinks more quickly.</item>
+<item>Sales associates should sell more cars this month.</item>
+<item>McDonald’s needs more customers at dinnertime.</item>
+<item>FedEx wants to compete with UPS.</item>
+<item>Boxed wants to reach more customers.</item>
+<item>Lyft wants to increase revenue.</item>
+</list></item>
+<item><para id="fs-idm260713072">Entrepreneurs must be strategic thinkers in order to develop the plans and objectives necessary to start a business that will last. Imagine you are starting a new music-streaming service. You have decided to differentiate your service from the others already in the marketplace. Think of three ways to add value to your service and also the performance measures you’ll need to use in order to know if your added value is really valued by customers.</para></item>
+</list>
+</section>
+<section id="fs-idm258680736" class="critical-thinking"><title>Critical Thinking Case</title>
+<section id="fs-idm247321968"><title>Interface Inc.’s Strategy for Sustainability</title>
+<para id="fs-idm231971472"><emphasis effect="bold">Watch Interface CEO Ray Anderson present his vision for Interface, Inc.:</emphasis></para>
+<para id="fs-idm234049664"><emphasis effect="bold">https://www.youtube.com/watch?v=NskixbVn0BE</emphasis></para>
+<para id="fs-idm244701664">Interface, Inc. is the world’s largest manufacturer of carpet tile. Headquartered in Atlanta, Georgia, the global company manufactures the kind of carpet that millions of commercial buildings of all types have on their floors. Carpet manufacturing is a historically dirty business. Not only is commercial carpet a petroleum-based product, the manufacturing process is water-intensive, and carpet squares are installed using toxic glue. Because this carpet is aimed at the commercial market (think schools, libraries, malls, office buildings), it usually does not have a long life span. Malls and schools regularly remove and replace carpet after just a few years because of fading and wear from daily foot traffic. This puts millions of square feet of old carpet into landfills annually.</para>
+<para id="fs-idm242279824">In 1994, Ray Anderson, the founder of Interface, was put on the spot when he was asked what his company was doing to be sustainable. He realized that the answer to the question was, unfortunately, “not much.” Anderson realized that in order to improve the company’s sustainability performance, Interface was going to have to radically reimagine every part of their business.</para>
+<para id="fs-idm241754928">Unlike what many CEOs in his position might have done, Anderson decided to do just that. He gave Interface a new vision, which he called Mission Zero. The objective was to reduce Interface’s environmental impact to zero by the year 2020. To accomplish this vision, the company looked at every aspect of its operations and developed what it called the “Seven Fronts of Sustainability”:</para>
+<quote id="fs-idm245907392" display="block"><para id="fs-idm250917824">Front #1—Eliminate Waste: Eliminate all forms of waste in every area of the business.</para>
+<para id="fs-idm240216960">Front #2—Benign Emissions: Eliminate toxic substances from products, vehicles, and facilities.</para>
+<para id="fs-idm249290544">Front #3—Renewable Energy: Operate facilities with 100% renewable energy.</para>
+<para id="fs-idm215994832">Front #4—Closing the Loop: Redesign processes and products to close the technical loop using recycled and biobased materials.</para>
+<para id="fs-idm253704848">Front #5—Efficient Transportation: Transport people and products efficiently to eliminate waste and emissions.</para>
+<para id="fs-idm255693968">Front #6—Sensitizing Stakeholders: Create a culture that uses sustainability principles to improve the lives and livelihoods of all of our stakeholders.</para>
+<para id="fs-idm234071184">Front #7—Redesign Commerce: Create a new business model that demonstrates and supports the value of sustainability-based commerce.</para></quote>
+<para id="fs-idm239808880">To achieve the seven sustainability goals, Interface needed to redesign their operations from start to finish and even reconsider what constituted the start and finish for their products. Anderson empowered employees and invested in research to develop new ways to design, manufacture, and install carpet tiles. Interface also reimagined how its clients would use and dispose of carpet tiles.</para>
+<para id="fs-idm645639312">Changing the strategy of a successful company is always risky, but Anderson felt he had to take the risk. Developing action plans for such a radical change meant that every step of the business had to be rethought, and Interface is on the way to achieving Ray Anderson’s vision. “Since January 2014, Interface's plants in Holland and Northern Ireland have been using around 90% less carbon and 95% less water than in 1996, with no waste going to landfill. Its plant in Scherpenzeel, Netherlands, has hit two of its zero targets.”</para>
+<para id="fs-idm652606400">How has Interface made these changes? In addition to changing the way they thought about their product’s life cycle, Interface has implemented performance measures to track its progress and it has incentivized employees to be part of the company’s successful redesign. Connecting company actions to real cost savings was a key part of Ray Anderson’s vision. “Over time, programs that linked bonuses for employees at all company levels to reductions in waste started to put meat on the bones of Ray's ‘business case for sustainability.’” Interface’s costs have dropped as they have learned to use fewer resources to manufacture their products, and the cost savings have improved profitability even as Interface continues to invest in Mission Zero.</para>
+<list id="fs-idm250197216" list-type="enumerated">
+<title>Critical Thinking Questions</title>
+<item>What reaction do you think employees had when Ray Anderson announced he wanted to change the company’s mission?</item>
+<item>How would you turn the Seven Fronts of Sustainability into SMART goals?</item>
+<item>How is tying rewards to improved sustainability performance a form of strategic control?</item>
+</list>
+<para id="fs-idm231324624">Sources: Interface Inc. company website: http://www.interfaceglobal.com/Company.aspx and sustainability site: http://www.interfaceglobal.com/Sustainability.aspx ; Thorpe, Lorna (2014). “Interface is a carpet-tile revolutionary.” The Guardian Sustainable Business. https://www.theguardian.com/sustainable-business/sustainability-case-studies-interface-carpet-tile-revolutionary; Davis, Mikhail (2014). “Radical Industrialists: 20 years later, Interface looks back on Ray Anderson's legacy.” Greenbiz.com. https://www.greenbiz.com/blog/2014/09/03/20-years-later-interface-looks-back-ray-andersons-legacy.</para>
+</section>
+</section>
+ </content>
+
+<glossary>
+<definition id="fs-idm237570656"><term>benchmarking</term>
+<meaning id="fs-idm209023488">a performance evaluation technique where the standard for a firm’s performance is based on another firm’s superior performance.</meaning>
+</definition>
+<definition id="fs-idm260669792"><term>performance measurement</term>
+<meaning id="fs-idm254286896">the evaluation of firm activities to determine the success of that activity in helping the firm reach its strategic objectives.</meaning>
+</definition>
+</glossary>
+</document>

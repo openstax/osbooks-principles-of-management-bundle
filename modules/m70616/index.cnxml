@@ -1,0 +1,153 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Group Decision-Making</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>m70616</md:content-id>
+  <md:title>Group Decision-Making</md:title>
+  <md:abstract/>
+  <md:uuid>b62d9542-446b-4b76-99dc-8661551e330f</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm259142112" list-type="enumerated" start-value="6">
+<item>What are the advantages and disadvantages of group decision-making, and how can a manager improve the quality of group decision-making?</item>
+</list>
+<para id="fs-idm267453024">Involving more people in the decision-making process can greatly improve the quality of a manager's decisions and outcomes. However, involving more people can also increase conflict and generate other challenges. We turn now to the advantages and disadvantages of group decision-making.</para>
+<section id="fs-idm263892352"><title>Advantages of Group Decisions</title>
+<para id="fs-idm260662208">An advantage to involving groups in decision-making is that you can incorporate different perspectives and ideas. For this advantage to be realized, however, you need a diverse group. In a diverse group, the different group members will each tend to have different preferences, opinions, biases, and stereotypes. Because a variety of viewpoints must be negotiated and worked through, group decision-making creates additional work for a manager, but (provided the group members reflect different perspectives) it also tends to reduce the effects of bias on the outcome. For example, a hiring committee made up of all men might end up hiring a larger proportion of male applicants (simply because they tend to prefer people who are more similar to themselves). But with a hiring committee made up of an equal number of men and women, the bias should be cancelled out, resulting in more applicants being hired based on their qualifications rather than their physical attributes.</para>
+<para id="fs-idm256529904">Having more people involved in decision-making is also beneficial because each individual brings unique information or knowledge to the group, as well as different perspectives on the problem. Additionally, having the participation of multiple people will often lead to more options being generated and to greater intellectual stimulation as group members discuss the available options. <term>Brainstorming</term> is a process of generating as many solutions or options as possible and is a popular technique associated with group decision-making.</para>
+<para id="fs-idm256239792">All of these factors can lead to superior outcomes when groups are involved in decision-making. Furthermore, involving people who will be affected by a decision in the decision-making process will allow those individuals to have a greater understanding of the issues or problems and a greater commitment to the solutions.</para>
+</section>
+<section id="fs-idm281026048"><title>Disadvantages of Group Decisions</title>
+<para id="fs-idm257165312">Group decision-making is not without challenges. Some groups get bogged down by conflict, while others go to the opposite extreme and push for agreement at the expense of quality discussions. <term>Groupthink</term> occurs when group members choose not to voice their concerns or objections because they would rather keep the peace and not annoy or antagonize others. Sometimes groupthink occurs because the group has a positive team spirit and camaraderie, and individual group members don’t want that to change by introducing conflict. It can also occur because past successes have made the team complacent.</para>
+<para id="fs-idm256848448">Often, one individual in the group has more power or exerts more influence than others and discourages those with differing opinions from speaking up (<term>suppression of dissent</term>) to ensure that only their own ideas are implemented. If members of the group are not really contributing their ideas and perspectives, however, then the group is not getting the benefits of group decision-making.</para>
+</section>
+<section id="fs-idm276834800"><title>How to Form a Quality Group</title><para id="fs-idm277376864">Effective managers will try to ensure quality group decision-making by forming groups with diverse members so that a variety of perspectives will contribute to the process. They will also encourage everyone to speak up and voice their opinions and thoughts prior to the group reaching a decision. Sometimes groups will also assign a member to play the <term>devil’s advocate</term> in order to reduce groupthink. The devil’s advocate intentionally takes on the role of critic. Their job is to point out flawed logic, to challenge the group’s evaluations of various alternatives, and to identify weaknesses in proposed solutions. This pushes the other group members to think more deeply about the advantages and disadvantages of proposed solutions before reaching a decision and implementing it.</para>
+<figure id="ch02fig07" class="scaled-down">
+<title>The Devils Advocate</title>
+<media id="ch02media07" alt="A photo shows Brian Schnell raising his hand vehemently while speaking to other franchisee attorneys during a meeting."><image mime-type="image/jpg" src="../../media/Devils Advocate Photo 2-2.jpg"/></media>
+<caption>At a meeting of McDonald’s franchise owners, attorney Brian Schnell was placed in the audience as a devil’s advocate and often would strongly disagree with franchisee attorney Bob Zarco that the National Labor Relations Board (NLRB)’s joint-employer ruling on McDonald’s is a boon for franchisees. He would raise his hand often and vehemently, which Zarco had asked him to do before the meeting. In that way, the franchisors’ articulate arguments could be heard by all franchisee leaders in attendance, and rebutted. Credit (Mr. Blue MauMau/ flickr/ Attribution 2.0 Generic (CC BY 2.0))</caption>
+</figure>
+<para id="fs-idm273701904">The methods we’ve just described can all help ensure that groups reach good decisions, but what can a manager do when there is too much conflict within a group? In this situation, managers need to help group members reduce conflict by finding some common ground—areas in which they can agree, such as common interests, values, beliefs, experiences, or goals. Keeping a group focused on a common goal can be a very worthwhile tactic to keep group members working with rather than against one another. <emphasis effect="bold"><link target-id="ch02tab03" document=""/></emphasis> summarizes the techniques to improve group decision-making.</para>
+<table id="ch02tab03" summary="Techniques that improve decision making"><tgroup cols="3"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="center">Summary of Techniques That May Improve Group Decision-Making</entry>
+</row>
+<row>
+<entry><para id="fs-idm270492560">Type of Decision</para></entry>
+<entry><para id="fs-idm267111152">Technique</para></entry>
+<entry><para id="fs-idm257114816">Benefit</para></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" morerows="3"><para id="fs-idm259263920">Group decisions</para></entry>
+<entry><para id="fs-idm265681728">Have diverse members in the group.</para></entry>
+<entry><para id="fs-idm276768144">Improves quality: generates more options, reduces bias</para></entry>
+</row>
+<row>
+<entry><para id="fs-idm274374384">Assign a devil’s advocate.</para></entry>
+<entry><para id="fs-idm259788336">Improves quality: reduces groupthink</para></entry>
+</row>
+<row>
+<entry><para id="fs-idm270216208">Encourage everyone to speak up and contribute.</para></entry>
+<entry><para id="fs-idm274377120">Improves quality: generates more options, prevents suppression of dissent</para></entry>
+</row>
+<row>
+<entry><para id="fs-idm257036816">Help group members find common ground.</para></entry>
+<entry><para id="fs-idm272390448">Improves quality: reduces personality conflict</para></entry>
+</row>
+</tbody>
+
+</tgroup>
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC-BY 4.0 license)</caption></table></section><section id="fs-idm269151840"><title>Conclusion</title>
+<para id="fs-idm265168656">Decision-making is a crucial daily activity for managers. Decisions range from small and simple, with straightforward answers, to big and complex, with little clarity about what the best choice will be. Being an effective manager requires learning how to successfully navigate all kinds of decisions. Expertise, which develops gradually through learning and experience, generally improves managerial decision-making, but managers rarely rely solely on their own expertise. They also conduct research and collect information from others; they pay attention to their own biases and to ethical implications; and they think critically about the information that they have received to make decisions that will benefit the organization and its stakeholders.</para>
+<note id="fs-idm273682768" class="concept-check">
+<list id="fs-idm258963840" list-type="enumerated" number-style="arabic" class="no-style">
+<item>Explain why group decision-making can be more effective than individual decision-making.</item>
+<item>What are some things that can prevent groups from making good decisions?</item>
+<item>As a manager, what can you do to enhance the quality of group decision-making?</item>
+</list>
+</note>
+</section>
+<section id="fs-idm268064416" class="section-summary">
+<list id="fs-idm270387216" list-type="enumerated" start-value="6">
+<item>What are the advantages and disadvantages of group decision-making, and how can a manager improve the quality of group decision-making?</item>
+</list>
+<para id="fs-idm259759024">Groups can make better decisions than individuals because group members can contribute more knowledge and a diversity of perspectives. Groups will tend to generate more options as well, which can lead to better solutions. Also, having people involved in making decisions that will affect them can improve their attitudes about the decision that is made. However, groups sometimes fail to generate added value in the decision-making process as a result of groupthink, conflict, or suppression of dissent.</para>
+<para id="fs-idm279784080">Managers can improve the quality of group decision-making in a number of ways. First, when forming the group, the manager should ensure that the individual group members are diverse in terms of knowledge and perspectives. The manager may also want to assign a devil’s advocate to discourage groupthink. Managers should also encourage all group members to contribute their ideas and opinions, and they should not allow a single voice to dominate. Finally, they should not allow personality conflicts to derail group processes.</para>
+</section>
+<section id="fs-idm256496992" class="chapter-review"><title>Chapter Review Questions</title>
+<list id="fs-idm271142432" list-type="enumerated">
+<item>What are some of the factors that enabled to Jen Rubio and Stephanie Korey to make good decisions when they established their luggage company, Away?</item>
+<item>What are the two systems that the brain uses in decision-making? How are they related to programmed and nonprogrammed decisions?</item>
+<item>What is a heuristic, and when would it be appropriate to use a heuristic for decision-making?</item>
+<item>What is confirmation bias? Explain how it can be a barrier to effective decision-making.</item>
+<item>What is a logical fallacy?</item>
+<item>What are the two types of conflict? Which one is constructive, and which is destructive?</item>
+<item>What are the steps in the decision-making process? Which ones do people tend to skip or spend insufficient time on?</item>
+<item>What can individuals do to improve the quality of their decision-making?</item>
+<item>What can groups or group leaders do to improve the quality of group decision-making?</item>
+<item>What are the benefits of decision-making in a group, instead of individually?</item>
+</list>
+</section>
+<section id="fs-idm272251280" class="manage-skills"><title>Management Skills Application Exercises</title>
+<list id="fs-idm281456624" list-type="enumerated">
+<item>If you wanted to buy a new car, what research would you do first to increase the likelihood of making a good decision? As a manager, do you think you would engage in more research or less research than that prior to making big decisions for the organization?</item>
+<item>Think about a big decision that you have made. What impact did your emotions have on that decision? Did they help or hinder your decision-making? Would you make the same decision again?</item>
+<item>If you were faced with an ethical dilemma at work, who would you want to talk to for advice prior to reaching a decision?</item>
+<item>Which would be better to involve a group with, a programmed or a nonprogrammed decision? Why?</item>
+<item>If you were manager of a group with a lot of personality conflict, what would you do?</item>
+</list>
+</section>
+<section id="fs-idm257161552" class="manage-exercises"><title>Managerial Decision Exercises</title>
+<list id="fs-idm273777008" list-type="enumerated">
+<item>Imagine that you are a manager and that two of your employees are blaming one another for a recent project not going well. What factors would you consider in deciding whom to believe? Who else would you talk to before making a decision? What would you do to try to reduce the likelihood of this happening again?</item>
+<item>You have been asked whether your organization should expand from selling its products only in North America to selling its products in Europe as well. What information would you want to collect? Who would you want to discuss the idea with before making a decision?</item>
+<item>You have a colleague who decided the organization should pursue a new technology. Nine months into the project of transitioning to the new technology, based on new information you are convinced that the new technology is not going to work out as anticipated. In fact, you expect it to be a colossal failure. However, when you try to talk to your colleague about the issue, she won’t listen to your arguments. She is adamant that this new technology is the correct direction for your organization. Why do you think she is so resistant to seeing reason? Given what you learned in this chapter, what could you do to persuade her?</item>
+<item>Your manager has asked you to take the lead on a new and creative project. She has encouraged you to create your own team (from existing employees) to work with you on the project. What factors would you want to consider in deciding who should join your project team? What would you want to do as the team leader to increase the likelihood that the group will be successful?</item>
+<item>Identify the logical flaw(s) in this argument:
+<list id="fs-idm274929024" list-type="bulleted">
+<item>We want to have effective leaders in this organization.</item>
+<item>Taller individuals tend to be perceived as more leader-like.</item>
+<item>Men are usually taller than women.</item>
+<item>So, we should only hire men to be managers in our organization.</item>
+</list></item>
+</list>
+</section>
+<section id="fs-idm274912992" class="critical-thinking"><title>Critical Thinking Case</title>
+<section id="fs-idm274351024"><title>Vinyl Records Make a Comeback</title>
+<para id="fs-idm256845552">The music industry has seen a series of innovations that have improved audio quality—vinyl records sales were eventually surpassed by compact discs in the 1980s, which were then eclipsed by digital music in the early 2000s. Both of the newer technologies boast superior sound quality to vinyl records. Vinyl should be dead . . . yet it’s not. Some say this is simply a result of nostalgia—people love to harken back to older times. However, some audiophiles say that vinyl records produce a “warm” sound that can’t be reproduced in any other format. In addition, a vinyl record is a tangible product (you can feel it, touch it, and see it when you own the physical record) and is more attractive, from an aesthetic perspective, than a CD. It is also a format that encourages listening to an entire album at once, rather than just listening to individual tracks, which can change the listening experience.</para>
+<para id="fs-idm278075808">Whatever the reasons, vinyl is making an impressive comeback. Sales growth has been in the double digits for the last several years (over 50% in 2015 and again in 2016) and is expected to exceed $5 billion in 2017. Sony, which hasn’t produced a vinyl record since 1989, recently announced that it is back in the vinyl business.</para>
+<para id="fs-idm278806512">One of the biggest challenges to making vinyl records is that most of the presses are 40+ years old. In the record-making process, vinyl bits are heated to 170 degrees, and then a specialized machine exerts 150 tons of pressure to press the vinyl into the shape of the record. About a dozen new vinyl record manufacturers have sprung up in the last decade in the United States. Independent Record Pressing, a company based in New Jersey, began producing vinyl records in 2015 using old, existing presses. Their goal upon starting up was to produce over a million records a year. Even at that level of production, though, demand far outstrips the company’s capacity to produce because of the limited number of presses available. They could run their machines nonstop, 24 hours a day, and not catch up with demand.</para>
+<para id="fs-idm266068064">The big question is what the future holds for this industry. Will this just be a passing fad? Will the vinyl record industry remain a small niche market? Or is this the renaissance, the rebirth of a product that can withstand the test of time and alternative technologies? If it’s a rebirth, then we should see demand continue to grow at its recent rapid pace . . . and if demand remains strong, then investing in new presses may well be worthwhile. If this is just a short-lived nostalgic return to an outdated media, however, then the large capital investment required to purchase new presses will never be recouped. Even with the recent growth, vinyl records still accounted for only 7% of overall music industry sales in 2015. That may be enough to get old presses running again, but so far it hasn’t been enough to promote a lot of investment in new machines. The cost of a new press? Almost half a million dollars.</para>
+<para id="fs-idm278779184">At least one manufacturer is optimistic about the future of vinyl. GZ Media, based in Czechoslovakia, is currently the world’s largest producer of vinyl records. President and owner Zdenek Pelc kept his record factory going during the lean years when vinyl sales bottomed out. He admits that the decision was not wholly logical; he continued in part because of an emotional attachment to the media. After demand for vinyl records practically disappeared, Pelc kept just a few of the presses running to meet the demand that remained. His intention was to be the last remaining manufacturer of vinyl records. Pelc’s emotional attachment to vinyl records seems to have served him well, and it’s a great example of why basing decisions on pure logic doesn’t always lead to the best results. Consumers make purchasing decisions in part based on the emotional appeal of the product, so it shouldn’t be surprising that consumers also feel an emotional attachment to vinyl records, as Pelc did.</para>
+<para id="fs-idm278297408">When demand for vinyl records was low, Pelc stored the company’s presses that were no longer in use so that they could be cannibalized for parts as needed. When sales began to grow again in 2005, he started pulling old machines out of storage and even invested in a few new ones. This has made GZ Media not only the largest vinyl record producer in the world, but also one of the only ones with new factory equipment. GZ Media produces over 20 million vinyl records a year, and Pelc is excited to continue that trend and to remain a major manufacturer in what is currently still considered a niche market.</para>
+<list id="fs-idm279515600" list-type="enumerated">
+<title>Critical Thinking Questions</title>
+<item>Why do you think vinyl records are appealing to customers?</item>
+<item>Do you think the sales growth will continue to be strong for vinyl sales? Why or why not?</item>
+<item>What research would you want to conduct prior to making a decision to invest in new presses?</item>
+</list>
+<para id="fs-idm279838576">Sources: Lee Barron, “Back on record – the reasons behind vinyl’s unlikely comeback,” <emphasis effect="italics">The Conversation</emphasis>, April 17, 2015, https://theconversation.com/back-on-record-the-reasons-behind-vinyls-unlikely-comeback-39964. Hannah Ellis-Peterson, “Record sales: vinyl hits 25-year high,” The Guardian, January 3, 2017, https://www.theguardian.com/music/2017/jan/03/record-sales-vinyl-hits-25-year-high-and-outstrips-streaming. Allan Kozinn, “Weaned on CDs, They’re Reaching for Vinyl,” <emphasis effect="italics">The New York Times</emphasis>, June 9, 2013. Rick Lyman, “Czech company, pressing hits for years on vinyl, finds it has become one,” The New York Times, August 6, 2015. Alec Macfarlane and Chie Kobayashi, “Vinyl comeback: Sony to produce records again after 28-year break,” <emphasis effect="italics">CNN Money</emphasis>, June 30, 2017, http://money.cnn.com/2017/06/30/news/sony-music-brings-back-vinyl-records/index.html. Kate Rogers, “Why millennials are buying more vinyl records,” CNBC.com, November 6, 2015. https://www.cnbc.com/2015/11/06/why-millennials-are-buying-more-vinyl-records.html. Robert Tait, “In the groove: Czech firm tops list of world’s vinyl record producers,” <emphasis effect="italics">The Guardian</emphasis>, August 18, 2016.</para></section>
+</section>
+  </content>
+
+<glossary>
+<definition id="fs-idm259063984"><term>Brainstorming</term>
+<meaning id="fs-idm275234448">A process of generating as many ideas or alternatives as possible, often in groups.</meaning>
+</definition>
+<definition id="fs-idm273749776"><term>Devil’s advocate</term>
+<meaning id="fs-idm281523424">A group member who intentionally takes on the role of being critical of the group’s ideas in order to discourage groupthink and encourage deep thought and discussion about issues prior to making decisions.</meaning>
+</definition>
+<definition id="fs-idm279724000"><term>Groupthink</term>
+<meaning id="fs-idm260096496">The tendency of a group to reach agreement very quickly and without substantive discussion.</meaning>
+</definition>
+<definition id="fs-idm256253024"><term>Suppression of dissent</term>
+<meaning id="fs-idm280327776">When a group member exerts his or her power to prevent others from voicing their thoughts or opinions.</meaning>
+</definition>
+</glossary>
+</document>

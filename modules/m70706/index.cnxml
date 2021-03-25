@@ -1,0 +1,154 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Types of Plans</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>m70706</md:content-id>
+  <md:title>Types of Plans</md:title>
+  <md:abstract/>
+  <md:uuid>680e4610-1ccc-4063-9bb5-0ce8a28c64b2</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm189096800" list-type="enumerated" start-value="3">
+<item>Identify different types of plans and control systems employed by organizations.</item>
+</list>
+<para id="fs-idm237874160">From an activity perspective, organizations are relatively complex systems, as they are involved in numerous activities. Many of these activities require management’s attention from both a planning and controlling perspective. Managers therefore create different types of plans to guide operations and to monitor and control organizational activities. In this section, we introduce several commonly used plans. The major categories are hierarchical, frequency-of-use (repetitiveness), time-frame, organizational scope, and contingency. <emphasis effect="bold"><link target-id="ch17tab01" document=""/></emphasis> provides a closer look at many types of plans that fall in each of these categories.</para>
+<section id="fs-idm221731456"><title>Hierarchical Plans</title>
+<para id="fs-idm223360688">Organizations can be viewed as a three-layer cake, with its three levels of organizational needs. Each of the three levels—institutional, administrative, and technical core—is associated with a particular type of plan. As revealed in <emphasis effect="bold"><link target-id="ch17tab01" document=""/></emphasis>, the three types of hierarchical plans are strategic, administrative, and operating (technical core). The three hierarchical plans are interdependent, as they support the fulfillment of the three organizational needs. In the organization’s hierarchy, the technical core plans day-to-day operations.</para>
+<table id="ch17tab01" summary="">
+<title/>
+<tgroup cols="1">
+<colspec colnum="1" colname="c1"/>
+<thead>
+<row>
+<entry>Organizational Plans</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><emphasis effect="bold">Hierarchical Plans</emphasis></entry>
+</row>
+<row>
+<entry><list id="fs-idm310032512" list-type="bulleted">
+<item>Strategic plans (institutional)—define the organization’s long-term vision; articulate the organization’s mission and value statements; define what business the organization is in or hopes to be in; articulate how the organization will integrate itself into its general and task environments.</item>
+<item>Administrative plans—specify the allocation of organizational resources to internal units of the organization; address the integration of the institutional level of the organization (for example, vision formulation) with the technical core (vision implementation); address the integration of the diverse units of the organization.</item>
+<item>Operating plans (technical core)—cover the day-to-day operations of the organization.</item>
+</list></entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Frequency-of-Use Plans</emphasis></entry>
+</row>
+<row>
+<entry><emphasis effect="bold"><emphasis effect="italics">Standing Plans</emphasis></emphasis></entry>
+</row>
+<row>
+<entry><list id="fs-idm211539680" list-type="bulleted">
+<item>Policies—general statements of understanding or intent; guide decision-making, permitting the exercise of some discretion; guide behavior (for example, no employee shall accept favors and/or entertainment from an outside organization that are substantial enough in value to cause undue influence over one’s decisions on behalf of the organization).</item>
+<item>Rules—guides to action that do not permit discretion in interpretation; specify what is permissible and what is not permissible.</item>
+<item>Procedures—like rules, they guide action; specify a series of steps that must be taken in the performance of a particular task.</item>
+</list></entry>
+</row>
+<row>
+<entry><emphasis effect="bold"><emphasis effect="italics">Single-Use Plans</emphasis></emphasis></entry>
+</row>
+<row>
+<entry><list id="fs-idm243925216" list-type="bulleted">
+<item>Programs—a complex set of policies, rules, and procedures necessary to carry out a course of action.</item>
+<item>Projects—specific action plans often created to complete various aspects of a program.</item>
+<item>Budgets—plans expressed in numerical terms.</item>
+</list></entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Time-Frame Plans</emphasis></entry>
+</row>
+<row>
+<entry><list id="fs-idm223071600" list-type="bulleted">
+<item>Short-, medium-, and long-range plans—differ in the distance into the future projected:
+<list id="fs-idm212527184" list-type="bulleted" bullet-style="none">
+<item>Short-range—several hours to a year</item>
+<item>Medium-range—one to five years</item>
+<item>Long-range—more than five years</item>
+</list></item>
+</list></entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Organizational Scope Plans</emphasis></entry>
+</row>
+<row>
+<entry><list id="fs-idm194984896" list-type="bulleted">
+<item>Business/divisional-level plans—focus on one of the organization’s businesses (or divisions) and its competitive position.</item>
+<item>Unit/functional-level plans—focus on the day-to-day operations of lower-level organization units; marketing, human resources, accounting, and operations plans (production).</item>
+<item>Tactical plans—division-level or unit-level plans designed to help an organization accomplish its strategic plans.</item>
+</list></entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Contingency Plans</emphasis></entry>
+</row>
+<row>
+<entry><list id="fs-idm194098240" list-type="bulleted">
+<item>Plans created to deal with events that might come to confront the organization (e.g., natural disasters, terrorist threats); alternative courses of action that are to be implemented if events disrupt a planned course of action.</item>
+</list></entry>
+</row>
+</tbody>
+</tgroup>
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC-BY 4.0 license)</caption>
+</table>
+</section>
+<section id="fs-idm240914832"><title>Strategic Plans</title>
+<para id="fs-idm220716816">Strategic management is that part of the management process concerned with the overall integration of an organization’s internal divisions while simultaneously integrating the organization with its external environment. Strategic management formulates and implements tactics that try to match an organization as closely as possible to its task environment for the purpose of meeting its objectives.</para>
+<para id="fs-idm236358512"><term>Strategic plans</term> address the organization’s institutional-level needs. Strategic plans outline a long-term vision for the organization. They specify the organization’s reason for being, its strategic objectives, and its operational strategies—the action statements that specify how the organization’s strategic goals are to be achieved.</para>
+<para id="fs-idm226248752">Part of strategic planning involves creating the organization’s mission, a statement that specifies an organization’s reason for being and answers the question “What business(es) should we undertake?” The mission and the strategic plan are major guiding documents for activities that the organization pursues. Strategic plans have several defining characteristics: They are long-term and position an organization within its task environment; they are pervasive and cover many organizational activities; they integrate, guide, and control activities for the immediate and the long term; and they establish boundaries for managerial decision-making.</para>
+<para id="fs-idm240325520"><term>Operating plans</term> provide direction and action statements for activities in the organization’s technical core. <term>Administrative plans</term> work to integrate institutional-level plans with the operating plans and tie together all of the plans created for the organization’s technical core.</para>
+</section>
+<section id="fs-idm224461888"><title>Frequency-of-Use Plans</title>
+<para id="fs-idm225786192">Another category of plans is frequency-of-use plans. Some plans are used repeatedly; others are used for a single purpose. <term>Standing plans</term>, such as rules, policies, and procedures, are designed to cover issues that managers face repeatedly. For example, managers may be concerned about tardiness, a problem that may occur often in the entire work force. These managers might decide to develop a standing policy to be implemented automatically each time an employee is late for work. The procedure invoked under such a standing plan is called a standard operating procedure (SOP).</para>
+<para id="fs-idm309838768"><term>Single-use plans</term> are developed for unique situations or problems and are usually replaced after one use. Managers generally use three types of single-use plans: programs, projects, and budgets. See <emphasis effect="bold"><link target-id="ch17tab01" document=""/></emphasis> for a brief description of standing and single-use plans.</para>
+</section>
+<section id="fs-idm220677984"><title>Time-Frame Plans</title><para id="fs-idm188456256">The organization’s need to address the future is captured by its time-frame plans. This need to address the future through planning is reflected in short-, medium-, and long-range plans. Given the uniqueness of industries and the different time orientations of societies—study Hofstede’s differentiation of cultures around the world in terms of their orientation toward the future—the times captured by short, medium, and long range vary tremendously across organizations of the world. Konosuke Matsushita’s 250-year plan, which he developed for the company that bears his name, is not exactly typical of the long-range plans of U.S. companies!</para>
+<para id="fs-idm248853856">Short-, medium-, and long-range plans differ in more ways than the time they cover. Typically, the further a plan projects into the future, the more uncertainty planners encounter. As a consequence, long-range plans are usually less specific than shorter-range plans. Also, long-range plans are usually less formal, less detailed, and more flexible than short-range plans in order to accommodate such uncertainty. Long-range plans also tend to be more directional in nature.</para>
+<figure id="ch17fig07" class="scaled-down">
+<title>Tower with digital clock</title>
+<media id="ch17media07" alt="A photo of the Sapporo TV tower with digital clocks installed on it at four sides. The digital clocks read “6:51” with the advertisement of Panasonic right below the clocks."><image mime-type="image/jpg" src="../../media/Matsushita.jpg"/></media>
+<caption>Digital clocks were installed on the Sapporo TV tower, which was donated by Matsushita Electric Industrial Company, a Japanese electronics manufacturer. This installation was suggested by the founder of the company, Konosuke Matsushita, who thought these digital clocks would draw great attention to the tower. Matsushita is revered as a management thought leader in Japan and favored long-term planning, including 250-year plans. (Credit: Arjan Richerter/ flickr/ Attribution 2.0 Generic (CC BY 2.0))</caption>
+</figure>
+</section><section id="fs-idm227392192"><title>Organizational Scope Plans</title>
+<para id="fs-idm243449376">Plans vary in scope. Some plans focus on an entire organization. For example, the president of the University of Minnesota advanced a plan to make the university one of the top five educational institutions in the United States. This strategic plan focuses on the entire institution. Other plans are narrower in scope and concentrate on a subset of organizational activities or operating units, such as the food services unit of the university. For further insight into organizational scope plans, see <emphasis effect="bold"><link target-id="ch17tab01" document=""/></emphasis>.</para>
+</section>
+<section id="fs-idm210548976"><title>Contingency Plans</title>
+<para id="fs-idm222905408">Organizations often engage in contingency planning (also referred to as scenario or “what if” planning). You will recall that the planning process is based on certain premises about what is likely to happen in an organization’s environment. <term>Contingency plans</term> are created to deal with what might happen if these assumptions turn out to be wrong. Contingency planning is thus the development of alternative courses of action to be implemented if events disrupt a planned course of action. A contingency plan allows management to act immediately if an unplanned occurrence, such as a strike, boycott, natural disaster, or major economic shift, renders existing plans inoperable or inappropriate. For example, airlines develop contingency plans to deal with terrorism and air tragedies. Most contingency plans are never implemented, but when needed, they are of crucial importance.</para>
+<note id="fs-idm309943456" class="concept-check">
+<list id="fs-idm226326992" list-type="enumerated" number-style="arabic" class="no-style">
+<item>Define and describe the different types of plans defined in <emphasis effect="bold"><link target-id="ch17tab01" document=""/></emphasis> and how organizations use them.</item>
+</list>
+</note>
+</section>
+<section id="fs-idm223588096" class="section-summary">
+<list id="fs-idm211600096" list-type="enumerated" start-value="3">
+<item>Identify different types of plans and control systems employed by organizations.</item>
+</list>
+<para id="fs-idm212568336">Managers create many types of plans based on hierarchical level, frequency of use, time frame, and organizational scope. Contingency plans to be used in case of unexpected events or wrong assumptions are critical for effective management in highly turbulent environments.</para>
+</section>
+ </content>
+
+<glossary>
+<definition id="fs-idm241392752"><term>contingency plans</term>
+<meaning id="fs-idm247232992">Plans that deal with alternative courses of action.</meaning>
+</definition>
+<definition id="fs-idm234387984"><term>single-use plans</term>
+<meaning id="fs-idm236899472">Plans developed for unique situations or problems and one-time use.</meaning>
+</definition>
+<definition id="fs-idm241089552"><term>standing plans</term>
+<meaning id="fs-idm203569536">Rules, policies, and procedures about how to deal with issues that managers face repeatedly.</meaning>
+</definition>
+<definition id="fs-idm234183008"><term>strategic plans</term>
+<meaning id="fs-idm225951136">Hierarchical plans that address an organization’s institutional-level needs and attempt to position it advantageously within its task environment.</meaning>
+</definition>
+<definition id="fs-idm244529616"><term>operating plans</term>
+<meaning id="fs-idm242772704">Direction and action statements for activities in the organization’s technical core.</meaning>
+</definition>
+<definition id="fs-idm230326176"><term>administrative plans</term>
+<meaning id="fs-idm228195824">Plans that work to integrate institutional-level plans with the operating plans and tie together all of the plans created for the organization’s technical core.</meaning>
+</definition>
+</glossary>
+
+</document>
