@@ -1,0 +1,38 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="new" cnxml-version="0.7" module-id="new" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>m73924</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>d6a605ab-4051-4567-b216-b678a4129bd4</md:uuid>
+</metadata>
+
+<content class="introduction">
+<figure id="ch19fig01" class="splash">
+<media id="ch19media01" alt=""><image mime-type="image/jpg" src="../../media/Chapter 19 opener splash.jpg"/></media>
+<caption>(Credit: Marco Verch /flickr / Attribution 2.0 Generic (CC BY 2.0))</caption>
+</figure>
+<section id="fs-idm204250000" class="learning-outcomes"><title>Learning Outcomes</title>
+<para id="fs-idm203862112"><emphasis effect="bold">After reading this chapter, you should be able to answer these questions:</emphasis></para>
+<list id="fs-idm189753744" list-type="enumerated">
+<item>What are some different types of entrepreneurship?</item>
+<item>What characteristics lead individuals to become entrepreneurs?</item>
+<item>How can the business model canvas help us to describe and assess a business model?</item>
+<item>How do entrepreneurs finance their new business ideas?</item>
+<item>How can entrepreneurs leverage design thinking to solve complex problems and navigate uncertain environments?</item>
+<item>How can government support entrepreneurship?</item>
+</list>
+</section>
+<note id="fs-idm189952656" class="exploring-manager-careers">
+<title>Maria Rose Belding, MEANS Database</title>
+<para id="fs-idm205746128">One day while volunteering at her local food shelter in Iowa, middle school student Maria Rose Belding was forced to throw out hundreds of boxes of expired macaroni and cheese. While Maria carried the boxes to the trash, she walked past hungry families waiting for food, and she considered the sheer size of the world’s hunger problem. In the United States alone, over 133 billion pounds of food is thrown out annually, and there are over 45 million Americans who do not have enough to eat. Belding’s experience led her to create MEANS (Matching Excess and Need for Stability) Database, a nonprofit organization that creates an online network for food pantries and shelters to communicate with anyone that may have extra food, such as restaurants, grocery stores, and caterers. Through MEANS’s app and website, excess food that would be discarded is instead sent to a shelter or food pantry.</para>
+<para id="fs-idm217406048">Belding knew that she needed to create a platform to connect food pantries to food surpluses, but she did not know how. Grant Nelson, a law student at George Washington University, cofounded MEANS with Belding. Nelson led the data science and technology components and built the cloud infrastructure that MEANS needed to be successful in Belding’s goal of connecting people or organizations with extra food to those who need it. MEANS Database uses cloud-based software and e-mail-based communications to match food pantries with surplus food.</para>
+<para id="fs-idm207367232">Many people donate food to shelters with good intentions, but it often is not the right type of food for a certain shelter. For example, some shelters predominantly serve senior citizens with health issues such as hypertension, mandating a low-sodium diet. When a food pantry receives a ramen noodle donation, the staff should not give it to the elderly, and might instead throw the ramen away. MEANS allows pantry staff to post the unwanted food so that another pantry can claim the donation. For both food recipients and donors, the process is straightforward, and it is free to create an account with MEANS. The shelter provides its location, needs, and distance willing to travel for a food dimension. On the donation end, a shelter, restaurant, or any other potential donor of extra food can report the type and amount of food they are trying to give away, and MEANS e-mails the local pantries looking for that type of food. The MEANS technology enables the transactions in which both parties must agree for the food to be transferred.</para>
+<para id="fs-idm195405936">Belding continued to build MEANS Database during her high school studies and later as a premedical undergraduate student at American University. She received several honors for her efforts, including L’Oréal Women of Worth and one of CNN’s top ten recipients of “Hero of the Week” of 2018. Belding plans to pass daily management of MEANS to her staff and remain on the board during her medical school studies. MEANS Database has moved over two million pounds of food across 48 states and is exploring international possibilities.</para>
+<para id="fs-idm218272912">Sources: Maria Belding, “Math matters (but actually): We Can Solve Hunger With Numbers,” December 02, 2015, https://www.huffingtonpost.com/maria-rose-belding/math-matters-but-actually_b_8698146.html; Ykaie Du, “Feeding the Hungry with Data Science - The Possibility Report,” 2017,  https://www.theatlantic.com/sponsored/vmware-2017/hungry-data-science/1796/; Nancy Dunham, “How a Once-Bullied Student Created a Network to Feed Thousands: 'We Want to Get Wasted Food to People Who Need It,'”  March 17, 2016, http://people.com/human-interest/maria-rose-belding-bullied-student-created-a-network-to-feed-thousands/ Ron Fournier, “Fighting Hunger the Millennial Way,” December 22, 2015,  Retrieved from https://www.theatlantic.com/politics/archive/2015/12/fighting-hunger-the-millennial-way/461856/  Terrence McCoy, “The revolutionary technology helping to fight food waste,” December 6, 2015, https://www.washingtonpost.com/local/social-issues/the-revolutionary-technology-thats-helping-end-americas-chronic-food-waste/2015/12/06/0a491cb8-9a9c-11e5-8917-653b65c809eb_story.html?noredirect=on&amp;utm_term=.d4f9663f5cfc MEANS Database - a nonprofit food rescue platform, 2019,  https://www.meansdatabase.com/</para>
+</note>
+<para id="fs-idm210930896">Maria Rose Belding is one of millions of the world’s entrepreneurs—that is, individuals who recognize and pursue opportunities, take on risk, and convert these opportunities into value-added ventures that can survive in a competitive marketplace. Entrepreneurs hail from many backgrounds and age groups—with Belding representing young middle school, high school, and college entrepreneurs. Entrepreneurs have in common a drive to achieve and grow and a willingness to take initiative and personal responsibility. Entrepreneurs frequently require other resources such as cofounders and teams, and then must build a large network of customers, suppliers, and other stakeholders. While MEANS Database is a registered nonprofit, MEANS has many for-profit competitors and partners.</para>
+ </content>
+
+</document>

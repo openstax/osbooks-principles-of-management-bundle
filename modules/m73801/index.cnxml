@@ -1,0 +1,126 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Work Groups: Basic Considerations</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>m73801</md:content-id>
+  <md:title>Work Groups: Basic Considerations</md:title>
+  <md:abstract/>
+  <md:uuid>51039aa6-29f1-4ce6-931b-3d360df2a2f0</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm331208512" list-type="enumerated">
+<item>How do you manage group and intergroup processes effectively?</item>
+</list>
+<para id="fs-idm345369264">Available research on group dynamics demonstrates rather conclusively that individual behavior is highly influenced by coworkers in a work group. For instance, we see many examples of individuals who, when working in groups, intentionally set limits on their own incomes so they earn no more than the other group members. We see other situations where individuals choose to remain in an undesirable job because of their friends in the plant, even though preferable jobs are available elsewhere. In summarizing much research on the topic, Hackman and Morris concluded the following:</para>
+<para id="fs-idm346445328">There is substantial agreement among researchers and observers of small task groups that something important happens in group interaction which can affect performance outcomes. There is little agreement about just what that “something” is—whether it is more likely to enhance or depress group effectiveness, and how it can be monitored, analyzed, and altered.<cite target-id="ch09rfin-1"><note class="reference" display="inline" id="ch09rfin-1">J. Hackman and C. Morris, “Group Tasks, Group Interaction Process, and Group Performance Effectiveness,” in L. Berkowitz, ed., <emphasis effect="italics">Advances in Experimental Social Psychology,</emphasis> vol. 8 (New York: Academic Press, 1975), p. 49.</note></cite></para>
+<para id="fs-idm344521472">In order to gain a clearer understanding of this “something,” we must first consider in detail what we mean by a <term>group</term><emphasis effect="italics">,</emphasis> how groups are formed, and how various groups differ.</para>
+<section id="fs-idm348366912"><title>What Is a Group?</title>
+<para id="fs-idm363274464">The literature of group dynamics is a very rich field of study and includes many definitions of work groups. For example, we might conceive of a group in terms of <emphasis effect="italics">perceptions</emphasis>; that is, if individuals see themselves as a group, then a group exists. Or, we can view a group in <emphasis effect="italics">structural</emphasis> terms. For instance, McDavid and Harari define a group as “an organized system of two or more individuals who are interrelated so that the system performs some function, has a standard set of role relationships among its members, and has a set of <term>norms</term> that regulate the function of the group and each of its members.”<cite target-id="ch09rfin-2"><note class="reference" display="inline" id="ch09rfin-2">J. McDavid and M. Harari, <emphasis effect="italics">Social Psychology: Individuals, Groups, and Societies</emphasis> (New York: Harper &amp; Row, 1968), p. 237.</note></cite> Groups can also be defined in <emphasis effect="italics">motivational</emphasis> terms as “a collection of individuals whose existence as a collection is rewarding to the individuals.”<cite target-id="ch09rfin-3"><note class="reference" display="inline" id="ch09rfin-3">B. Bass. <emphasis effect="italics">Leadership, Psychology, and Organizational Behavior</emphasis> (New York: Harper &amp; Row, 1960), p. 39.</note></cite> Finally, a group can be viewed with regard to <emphasis effect="italics">interpersonal interactions</emphasis>—the degree to which members communicate and interact with one another over time.<cite target-id="ch09rfin-4"><note class="reference" display="inline" id="ch09rfin-4">G. Homans, <emphasis effect="italics">Social Behavior</emphasis> (New York: Harcourt, Brace and World, 1950).</note></cite></para>
+<para id="fs-idm354230928">By integrating these various approaches to defining groups, we may conclude for our purpose here that a <emphasis effect="italics">group</emphasis> is a collection of individuals who share a common set of norms, generally have differentiated roles among themselves, and interact with one another toward the joint pursuit of common goals. (The definitions of roles and norms is provided later in this chapter.) This definition assumes a dynamic perspective and leads us to focus on two major aspects of groups: group structure and group processes. Group structure is the topic of this chapter, and group processes will be discussed in later chapters.</para>
+</section>
+<section id="fs-idm333093120"><title>Types of Groups</title>
+<para id="fs-idm332554320">There are two primary types of groups: formal and informal. Moreover, within these two types, groups can be further differentiated on the basis of their relative degree of permanence. The resulting four types are shown in <emphasis effect="bold"><link target-id="ch09tab01" document=""/></emphasis>.</para>
+<table id="ch09tab01" summary="">
+<title/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3" align="center">Types of Groups</entry>
+</row>
+<row>
+<entry/>
+<entry>Relatively Permanent</entry>
+<entry>Relatively Temporary</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><emphasis effect="bold">Formal</emphasis></entry>
+<entry>Command group</entry>
+<entry>Task group</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Informal</emphasis></entry>
+<entry>Friendship group</entry>
+<entry>Interest group</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</table>
+<para id="fs-idm346466816"><emphasis effect="bold">Formal Groups.</emphasis> <term>Formal groups</term> are work units that are prescribed by the organization. Examples of formal groups include sections of departments (such as the accounts receivable section of the accounting department), committees, or special project task forces. These groups are set up by management on either a temporary or permanent basis to accomplish prescribed tasks. When the group is permanent, it is usually called a <term>command group</term> or <emphasis effect="italics">functional group</emphasis>. An example would be the sales department in a company. When the group is less permanent, it is usually referred to as a <term>task group</term>. An example here would be a corporate-sponsored task force on improving affirmative action efforts. In both cases, the groups are formal in that they are both officially established by the company to carry out some aspect of the business.</para>
+<para id="fs-idm351521184"><emphasis effect="bold">Informal Groups.</emphasis> In addition to formal groups, all organizations have a myriad of <term>informal groups</term>. These groups evolve naturally out of individual and collective self-interest among the members of an organization and are not the result of deliberate organizational design. People join informal groups because of common interests, social needs, or simply friendship. Informal groups typically develop their own norms and roles and establish unwritten rules for their members. Studies in social psychology have clearly documented the important role of these informal groups in facilitating (or inhibiting) performance and organizational effectiveness. Again, on the basis of their relative degree of permanence, informal groups can be divided into <term>friendship groups</term> (people you like to be around) and <term>interest groups</term> (e.g., a network of working women or minority managers). Friendship groups tend to be long-lasting, whereas interest groups often dissolve as people’s interests change.</para>
+<para id="fs-idm345651040">One of the more interesting aspects of group processes in organizations is the interaction between informal and formal groups. Both groups establish norms and roles and goals and objectives, and both demand loyalty from their members. When an individual is a member of many groups—both formal and informal—a wide array of potentially conflicting situations emerges that has an impact upon behavior in organizations. We will focus on this interplay throughout the next few chapters.</para>
+</section>
+<section id="fs-idm341341328"><title>Reasons for Joining Groups</title>
+<para id="fs-idm332291984">People join groups for many reasons. Often, joining a group serves several purposes at once. In general, at least six reasons can be identified for joining groups:</para>
+<list id="fs-idm327006096" list-type="enumerated">
+<item><emphasis effect="italics">Security.</emphasis> Most people have a basic need for protection from external threats, real or imagined. These threats include the possibility of being fired or intimidated by the boss, the possibility of being embarrassed in a new situation, or simply the anxiety of being alone. Groups can be a primary source of <emphasis effect="italics">security</emphasis> against such threats. We have often heard that there is “safety in numbers.”</item>
+<item><emphasis effect="italics">Social Needs</emphasis>. In addition, as discussed in previous chapters, basic theories of personality and motivation emphasize that most individuals have relatively strong <emphasis effect="italics">social needs</emphasis>. They need to interact with other people and develop meaningful relationships. People are clearly social creatures. Groups provide structured environments in which individuals can pursue friendships.</item>
+<item><emphasis effect="italics">Self-Esteem</emphasis>. Similarly, membership in groups can assist individuals in developing self-esteem. People often take pride in being associated with prestigious groups; note such examples as professors elected to membership in the National Academy of Sciences or salespeople who qualify for a million dollar club as a reward for sales performance.</item>
+<item><emphasis effect="italics">Economic Self-Interest</emphasis>. People often associate with groups to pursue their own <emphasis effect="italics">economic self-interest</emphasis>. Labor unions are a prime example of this phenomenon, as are various professional and accrediting agencies, such as the American Bar Association. These organizations often attempt to limit the supply of tradespeople or professionals in order to maintain employment and salaries.</item>
+<item><emphasis effect="italics">Mutual Interest</emphasis>. Some groups are formed to pursue goals that are of <emphasis effect="italics">mutual interest</emphasis> to group members. Included here are bridge clubs, company-sponsored baseball teams, and literary clubs. By joining together, individuals can pursue group goals that are typically not feasible alone.</item>
+<item><emphasis effect="italics">Physical Proximity</emphasis>. Finally, many groups form simply because people are located in close <emphasis effect="italics">physical proximity</emphasis> to one another. In fact, office architecture and layout can have considerable influence over the development of social networks and groups. Consider, for example, two floors in the same building. On the first floor, all the managers have private offices arranged in a long row, with their assistants arranged in a similar row in front of them. This horizontal pattern of offices does not allow for frequent interaction between either the managers or the secretaries, and as a result group formation may be slowed. On the second floor, however, suppose all the managers’ offices are arranged in a cluster surrounding a similar cluster of assistants. The result would be more frequent social interaction among employees. This is not to say that one arrangement is superior to the other; rather, it is simply to point out how variations in office arrangements can have an impact on group formation.</item>
+</list>
+</section>
+<section id="fs-idm344033728"><title>Stages in Group Development</title>
+<para id="fs-idm341639552">Before we begin a comprehensive examination of the structure of groups, consider briefly the stages of group development. How do groups grow and develop over time? Tuckman has proposed one model of group development that consists of four stages through which groups generally proceed.<cite target-id="ch09rfin-5"><note class="reference" display="inline" id="ch09rfin-5">B. Tuckman and M. Jensen, “Stages of Small Group Development Revisited,” <emphasis effect="italics">Groups and Organizational Studies,</emphasis> 1977, <emphasis effect="italics">2,</emphasis> pp. 419–442.</note></cite> These four stages are referred to by the deceptively simple titles <emphasis effect="italics">forming, storming, norming,</emphasis> and <emphasis effect="italics">performing</emphasis> (see <emphasis effect="bold"><link target-id="ch09fig02" document=""/></emphasis>).</para>
+<list id="fs-idm343886688" list-type="enumerated">
+<item><emphasis effect="italics">Forming</emphasis>. In the first stage of development, when group members first come together, emphasis is usually placed on making acquaintances, sharing information, testing one another, and so forth. This stage is referred to as forming. Group members attempt to discover which interpersonal behaviors are acceptable or unacceptable in the group. In this process of sensing out the environment, a new member is heavily dependent upon others for providing cues to acceptable behavior.</item>
+<item><emphasis effect="italics">Storming</emphasis>. In the second stage of group development, a high degree of intergroup conflict (storming) can usually be expected as group members attempt to develop a place for themselves and to influence the development of group norms and roles. Issues are discussed more openly, and efforts are made to clarify group goals.</item>
+<item><emphasis effect="italics">Norming</emphasis>. Over time, the group begins to develop a sense of oneness. Here, group norms emerge (norming) to guide individual behavior. Group members come to accept fellow members and develop a unity of purpose that binds them.</item>
+<item><emphasis effect="italics">Performing</emphasis>. Once group members agree on basic purposes, they set about developing separate roles for the various members. In this final stage, role differentiation emerges to take advantage of task specialization in order to facilitate goal attainment. The group focuses its attention on the task (performing). As we consider this simple model, it should be emphasized that Tuckman does not claim that all groups proceed through this sequence of stages. Rather, this model provides a generalized conceptual scheme to help us understand the processes by which groups form and develop over time.</item>
+</list>
+<figure id="ch09fig02" class="scaled-down">
+<title>Stages in Group Development</title>
+<media id="ch09media02" alt="A graph plots the stages in group development." longdesc="C9-2-longdesc.txt"><image mime-type="image/png" src="../../media/Exhibit 9-2 Stages in Group Development.png"/></media>
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<note id="fs-idm353237024" class="concept-check">
+<list id="fs-idm346343024" list-type="enumerated" number-style="arabic" class="no-style">
+<item>What are the reasons for joining a group?</item>
+<item>What are the development stages groups often go through?</item>
+<item>At the storming stage, what differences might you expect between groups formed for economic self-interest and groups formed for mutual self-interest?</item>
+</list>
+</note>
+</section>
+<section id="fs-idm340233760" class="section-summary">
+<list id="fs-idm344322496" list-type="enumerated">
+<item>How do you manage group and intergroup processes effectively?</item>
+</list>
+<para id="fs-idm347533888">A group is a collection of individuals who share a common set of norms, who generally have differentiated roles among themselves, and who interact with one another in the joint pursuit of common goals. Groups may be divided into permanent and temporary groups and formal and informal groups. Formal groups include command and task groups, whereas informal groups include friendship and interest groups.</para>
+</section>
+ </content>
+
+<glossary>
+<definition id="fs-idm344424592"><term>Command group</term>
+<meaning id="fs-idm345888080">A group that is permanent.</meaning>
+</definition>
+<definition id="fs-idm327336960"><term>Formal group</term>
+<meaning id="fs-idm342112624">Work units that are prescribed by the organization.</meaning>
+</definition>
+<definition id="fs-idm353452896"><term>Friendship group</term>
+<meaning id="fs-idm362504640">Friendship groups tend to be long lasting.</meaning>
+</definition>
+<definition id="fs-idm354202256"><term>Group</term>
+<meaning id="fs-idm344191216">An organized system of two or more individuals who are interrelated so that the system performs some function, has a standard set of role relationships among its members, and has a set of norms that regulate the function of the group and each of its members.</meaning>
+</definition>
+<definition id="fs-idm353494880"><term>Informal group</term>
+<meaning id="fs-idm342021904">Groups that evolve naturally out of individual and collective self-interest among the members of an organization and are not the result of deliberate organizational design.</meaning>
+</definition>
+<definition id="fs-idm339248496"><term>Interest group</term>
+<meaning id="fs-idm362467264">A network that forms due to mutual interests such as working women or minority managers.</meaning>
+</definition>
+<definition id="fs-idm335029056"><term>Norms</term>
+<meaning id="fs-idm353220480">These regulate the function of the group and each of its members.</meaning>
+</definition>
+<definition id="fs-idm351614016"><term>Task group</term>
+<meaning id="fs-idm345886736">Serves the same purpose as a command role except that the role is temporary instead of permanent.</meaning>
+</definition>
+</glossary>
+
+</document>

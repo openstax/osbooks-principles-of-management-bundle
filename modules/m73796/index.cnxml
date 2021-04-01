@@ -1,0 +1,752 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Techniques of Performance Appraisal</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>m73796</md:content-id>
+  <md:title>Techniques of Performance Appraisal</md:title>
+  <md:abstract/>
+  <md:uuid>bb1b664b-b158-4863-b83a-5784fe74ccd6</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm358990160" list-type="enumerated" start-value="2">
+<item>What practices are used in the performance appraisal process?</item>
+</list>
+<para id="fs-idm339327472">Organizations use numerous methods to evaluate personnel. We will summarize several popular techniques. Although countless variations on these themes can be found, the basic methods presented provide a good summary of the commonly available techniques. Following this review, we will consider the various strengths and weaknesses of each technique. Six techniques are reviewed here: (1) graphic rating scales, (2) critical incident technique, (3) behaviorally anchored rating scales, (4) behavioral observation scales, (5) management by objectives, and (6) assessment centers.</para>
+<section id="fs-idm335209920"><title>Graphic Rating Scales</title>
+<para id="fs-idm355267968">Certainly, the most popular method of evaluation used in organizations today is the <term>graphic rating scale</term>. One study found that 57 percent of the organizations surveyed used rating scales, and another study found the figure to be 65 percent.<cite target-id="ch08rfin-5"><note class="reference" display="inline" id="ch08rfin-5">J. Smither and M. London, <emphasis effect="italics">Performance Management Putting Research Into Action</emphasis>, (San Francisco: Jossey Bass, 2008), pp. 187–328.</note></cite> Although this method appears in many formats, the supervisor or rater is typically presented with a printed or online form that contains both the employee’s name and several evaluation dimensions (quantity of work, quality of work, knowledge of job, attendance). The rater is then asked to rate the employee by assigning a number or rating on each of the dimensions. An example of a graphic rating scale is shown in <emphasis effect="bold"><link target-id="ch08tab01" document=""/></emphasis>.</para>
+<table id="ch08tab01" summary=""><tgroup cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c6" align="center">A Sample of a Typical Graphic Rating Scale</entry>
+</row>
+<row>
+<entry namest="c1" nameend="c6">Name ________________<emphasis effect="bold">Dept.</emphasis> ______________<emphasis effect="bold">Date</emphasis> _______________</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Quantity of work</entry>
+<entry><emphasis effect="bold">Outstanding</emphasis></entry>
+<entry><emphasis effect="bold">Good</emphasis></entry>
+<entry><emphasis effect="bold">Satisfactory</emphasis></entry>
+<entry><emphasis effect="bold">Fair</emphasis></entry>
+<entry><emphasis effect="bold">Unsatisfactory</emphasis></entry>
+</row>
+<row>
+<entry>Volume of acceptable work under normal conditions</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry namest="c1" nameend="c6">Comments:</entry>
+</row>
+<row>
+<entry>Quality of work</entry>
+<entry><emphasis effect="bold">Outstanding</emphasis></entry>
+<entry><emphasis effect="bold">Good</emphasis></entry>
+<entry><emphasis effect="bold">Satisfactory</emphasis></entry>
+<entry><emphasis effect="bold">Fair</emphasis></entry>
+<entry><emphasis effect="bold">Unsatisfactory</emphasis></entry>
+</row>
+<row>
+<entry>Thoroughness, neatness, and accuracy of work</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry namest="c1" nameend="c6">Comments:</entry>
+</row>
+<row>
+<entry>Knowledge of job</entry>
+<entry><emphasis effect="bold">Outstanding</emphasis></entry>
+<entry><emphasis effect="bold">Good</emphasis></entry>
+<entry><emphasis effect="bold">Satisfactory</emphasis></entry>
+<entry><emphasis effect="bold">Fair</emphasis></entry>
+<entry><emphasis effect="bold">Unsatisfactory</emphasis></entry>
+</row>
+<row>
+<entry>Clear understanding of the facts or factors pertinent to the job</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry namest="c1" nameend="c6">Comments:</entry>
+</row>
+<row>
+<entry>Personal qualities</entry>
+<entry><emphasis effect="bold">Outstanding</emphasis></entry>
+<entry><emphasis effect="bold">Good</emphasis></entry>
+<entry><emphasis effect="bold">Satisfactory</emphasis></entry>
+<entry><emphasis effect="bold">Fair</emphasis></entry>
+<entry><emphasis effect="bold">Unsatisfactory</emphasis></entry>
+</row>
+<row>
+<entry>Personality, appearance, sociability, leadership, integrity</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry namest="c1" nameend="c6">Comments:</entry>
+</row>
+<row>
+<entry>Cooperation</entry>
+<entry><emphasis effect="bold">Outstanding</emphasis></entry>
+<entry><emphasis effect="bold">Good</emphasis></entry>
+<entry><emphasis effect="bold">Satisfactory</emphasis></entry>
+<entry><emphasis effect="bold">Fair</emphasis></entry>
+<entry><emphasis effect="bold">Unsatisfactory</emphasis></entry>
+</row>
+<row>
+<entry>Ability and willingness to work with associates, supervisors, and subordinates toward common goal</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry namest="c1" nameend="c6">Comments:</entry>
+</row>
+<row>
+<entry>Dependability</entry>
+<entry><emphasis effect="bold">Outstanding</emphasis></entry>
+<entry><emphasis effect="bold">Good</emphasis></entry>
+<entry><emphasis effect="bold">Satisfactory</emphasis></entry>
+<entry><emphasis effect="bold">Fair</emphasis></entry>
+<entry><emphasis effect="bold">Unsatisfactory</emphasis></entry>
+</row>
+<row>
+<entry>Conscientious, thorough, accurate, reliable with respect to attendance, lunch periods, reliefs, etc.</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry namest="c1" nameend="c6">Comments:</entry>
+</row>
+<row>
+<entry>Initiative</entry>
+<entry><emphasis effect="bold">Outstanding</emphasis></entry>
+<entry><emphasis effect="bold">Good</emphasis></entry>
+<entry><emphasis effect="bold">Satisfactory</emphasis></entry>
+<entry><emphasis effect="bold">Fair</emphasis></entry>
+<entry><emphasis effect="bold">Unsatisfactory</emphasis></entry>
+</row>
+<row>
+<entry>Earnestness in seeking increased responsibilities
+Self-starting, unafraid to proceed alone</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry namest="c1" nameend="c6">Comments:</entry>
+</row>
+</tbody>
+</tgroup>
+
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption></table><para id="fs-idm340118400">By using this method, if we assume that evaluator biases can be minimized, it is possible to compare employees objectively. It is also possible to examine the relative strengths and weaknesses of a single employee by comparing scores on the various dimensions.</para>
+<para id="fs-idm344312480">However, one of the most serious drawbacks of this technique is its openness to central tendency, strictness, and leniency errors. It is possible to rate almost everyone in the middle of the scale or, conversely, at one end of the scale. In order to control for this, some companies have assigned required percentage distributions to the various scale points. Supervisors may be allowed to rate only 10 percent of their people outstanding and are required to rate 10 percent unsatisfactory, perhaps assigning 20 percent, 40 percent, and 20 percent to the remaining middle categories. By doing this, a distribution is forced within each department. However, this procedure may penalize a group of truly outstanding performers or reward a group of poor ones.</para>
+</section>
+<section id="fs-idm346015248"><title>Critical Incident Technique</title>
+<para id="fs-idm341790976">With the <term>critical incident technique</term> of performance appraisal, supervisors record incidents, or examples, of each subordinate’s behavior that led to either unusual success or unusual failure on some aspect of the job. These incidents are recorded in a daily or weekly log under predesignated categories (planning, decision-making, interpersonal relations, report writing). The final performance rating consists of a series of descriptive paragraphs or notes about various aspects of an employee’s performance (see <emphasis effect="bold"><link target-id="ch08tab02" document=""/></emphasis>).</para>
+<table id="ch08tab02" summary="">
+<title/>
+<tgroup cols="1">
+<colspec colnum="1" colname="c1"/>
+<thead>
+<row>
+<entry align="center">An Example of Critical Incident Evaluation</entry>
+</row>
+</thead>
+<tfoot>
+<row>
+<entry><emphasis effect="italics">Source:</emphasis> Adapted from R. Daft and R. Steers, <emphasis effect="italics">Organizations: A Micro/Macro Approach</emphasis> (Glenview, III.: Scott, Foresman and Company, 1986), p. 129.</entry>
+</row>
+</tfoot>
+<tbody>
+<row>
+<entry><para id="fs-idm346465536">The following performance areas are designed to assist you in preparing this appraisal and in discussing an individual’s performance with her. It is suggested that areas of performance that you feel are significantly good or poor be documented below with specific examples or actions. The points listed are suggested as typical and are by no means all-inclusive. Examples related to these points may be viewed from either a positive or negative standpoint.</para>
+<list id="fs-idm340427808" list-type="enumerated">
+<item><para id="fs-idm341904816">Performance on Technology of the Job</para>
+<list id="fs-idm347585680" list-type="enumerated" number-style="upper-alpha">
+<item><para id="fs-idm350203104"><emphasis effect="italics">Safety Effectiveness</emphasis>—possible considerations:</para>
+<list id="fs-idm353220480" list-type="enumerated">
+<item>sets an excellent safety example for others in the department by words and action</item>
+<item>trains people well in safety areas</item>
+<item>gains the cooperation and participation of people in safety</item>
+<item>insists that safety be designed into procedure and processes</item>
+<item>is instrumental in initiating departmental safety program</item>
+<item>accepts safety as a fundamental job responsibility</item>
+</list>
+<table id="ch08untab01" summary="" class="unnumbered">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row>
+<entry><emphasis effect="bold">Item</emphasis></entry>
+<entry><emphasis effect="bold">Related Examples</emphasis></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table></item>
+<item><para id="fs-idm362654528"><emphasis effect="italics">Job Knowledge</emphasis>—Technical and/or Specialized—possible considerations:</para>
+<list id="fs-idm348525728" list-type="enumerated">
+<item>shows exceptional knowledge in methods, materials, and techniques; applies in a resourceful and practical manner</item>
+<item>stays abreast of development(s) in field and applies to job</item>
+<item>“keeps up” on latest material in her special field</item>
+<item>participates in professional or technical organizations pertinent to her activities</item>
+</list>
+<table id="ch08untab02" summary="" class="unnumbered">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row>
+<entry><emphasis effect="bold">Item</emphasis></entry>
+<entry><emphasis effect="bold">Related Examples</emphasis></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table></item>
+</list></item>
+<item><para id="fs-idm341098048">Performance on Human Relations</para>
+<list id="fs-idm344507568" list-type="enumerated" number-style="upper-alpha">
+<item><para id="fs-idm358792544"><emphasis effect="italics">Ability to Communicate</emphasis>—possible considerations:</para>
+<list id="fs-idm360589984" list-type="enumerated">
+<item>gives logical, clear-cut, understandable instructions on complex problems</item>
+<item>uses clear and direct language in written and oral reporting</item>
+<item>organizes presentations in logical order and in order of importance</item>
+<item>provides supervisor and subordinates with pertinent and adequate information</item>
+<item>tailors communications approach to group or individual</item>
+<item>keeps informed on how subordinates think and feel about things</item>
+</list>
+<table id="ch08untab03" summary="" class="unnumbered">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row>
+<entry><emphasis effect="bold">Item</emphasis></entry>
+<entry><emphasis effect="bold">Related Examples</emphasis></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table></item>
+<item><para id="fs-idm335172192"><emphasis effect="italics">Results Achieved through Others</emphasis>—possible considerations:</para>
+<list id="fs-idm354262960" list-type="enumerated">
+<item>develops enthusiasm in others that gets the job done</item>
+<item>has respect and confidence of others</item>
+<item>recognizes and credits skills of others</item>
+<item>coordinates well with other involved groups to get the job done</item>
+</list>
+<table id="ch08untab04" summary="" class="unnumbered">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row>
+<entry><emphasis effect="bold">Item</emphasis></entry>
+<entry><emphasis effect="bold">Related Examples</emphasis></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table></item>
+</list></item>
+</list></entry>
+</row>
+</tbody>
+</tgroup>
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</table>
+<para id="fs-idm344227200">The critical incident method provides useful information for appraisal interviews, and managers and subordinates can discuss specific incidents. Good qualitative information is generated. However, because little quantitative data emerge, it is difficult to use this technique for promotion or salary decisions. The qualitative output here has led some companies to combine the critical incident technique with one of the quantitative techniques, such as the rating scale, to provide different kinds of feedback to the employees.</para>
+</section>
+<section id="fs-idm342086896"><title>Behaviorally Anchored Rating Scales</title>
+<para id="fs-idm358920880">An appraisal system that has received increasing attention in recent years is the <term>behaviorally anchored rating scale</term> (BARS). This system requires considerable work prior to evaluation but, if the work is carefully done, can lead to highly accurate ratings with high inter-rater reliability. Specifically, the BARS technique begins by selecting a job that can be described in observable behaviors. Managers and personnel specialists then identify these behaviors as they relate to superior or inferior performance.</para>
+<para id="fs-idm344338576">An example of this is shown in <emphasis effect="bold"><link target-id="ch08fig04" document=""/></emphasis>, where the BARS technique has been applied to the job of college professor. As shown, as one moves from extremely poor performance to extremely good performance, the performance descriptions, or behavioral anchors, increase. Oftentimes, six to ten scales are used to describe performance on the job. <emphasis effect="bold"><link target-id="ch08fig04" document=""/></emphasis> evaluates the professor’s organizational skills. Other scales could relate to the professor’s teaching effectiveness, knowledge of the material, availability to students, and fairness in grading. Once these scales are determined, the evaluator has only to check the category that describes what she observes on the job, and the employee’s rating is simultaneously determined. The BARS technique has several purported advantages. In particular, many of the sources of error discussed earlier (central tendency, leniency, halo) should be significantly reduced because raters are considering verbal descriptions of specific behaviors instead of general categories of behaviors, such as those used in graphic rating scales. In addition, the technique focuses on job-related behaviors and ignores less relevant issues such as the subordinate’s personality, race, or gender. This technique should also lead to employees being less defensive during performance appraisals, because the focus of the discussion would be actual measured behaviors, not the person. Finally, BARS can aid in employee training and development by identifying those domains needing most attention.</para>
+<figure id="ch08fig04" class="scaled-down"><title>A Behaviorally Anchored Scale for Rating College Professors</title><media id="ch08media04" alt="A diagram illustrates the anchored scale for rating college professors based on organizational skills." longdesc="C8-4-longdesc.txt"><image mime-type="image/png" src="../../media/Exhibit 8-4 A Behaviorally Anchored Scale for Rating College Professors.png"/></media>
+
+<caption><emphasis effect="italics">Source:</emphasis> Reprinted by permission of H. John Bernardin. (Attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)
+</caption></figure><para id="fs-idm361740384">On the negative side, as noted above, considerable time and effort in designing the forms are required before the actual rating. Because a separate BARS is required for each distinct job, it is only cost-efficient for common jobs. Finally, because the technique relies on observable behaviors, it may have little applicability for such jobs in such areas as research science (and sometimes management), where much of the work is mental and relevant observable behaviors are difficult to obtain.</para>
+</section>
+<section id="fs-idm341955872"><title>Behavioral Observation Scales</title>
+<para id="fs-idm334562128">The <term>behavioral observation scale</term> (BOS) is similar to BARS in that both focus on identifying observable behaviors as they relate to performance. It is, however, less demanding of the evaluator. Typically, the evaluator is asked to rate each behavior on a scale from 1 to 5 to indicate the frequency with which the employee exhibits the behavior. Evaluation of an employee’s performance on a particular dimension is derived by summing the frequency ratings for the behaviors in each dimension.</para>
+<para id="fs-idm360897792">For example, in <emphasis effect="bold"><link target-id="ch08tab03" document=""/></emphasis> we can see an example of a form to evaluate a manager’s ability to overcome resistance to change. The rater simply has to circle the appropriate numbers describing observed behaviors and get a summary rating by adding the results. The BOS technique is easier to construct than the BARS and makes the evaluator’s job somewhat simpler. Even so, this is a relatively new technique that is only now receiving some support in industry.</para>
+<table id="ch08tab03" summary=".">
+<tgroup cols="6"><colspec colnum="1" colname="c1" colwidth="11em"/>
+<colspec colnum="2" colname="c2" colwidth="5em" align="center"/>
+<colspec colnum="3" colname="c3" colwidth="5em" align="center"/>
+<colspec colnum="4" colname="c4" colwidth="5em" align="center"/>
+<colspec colnum="5" colname="c5" colwidth="5em" align="center"/>
+<colspec colnum="6" colname="c6" colwidth="5em" align="center"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c6" align="center">Example of a Behavioral Observation Scale for Managers: Overcoming Resistance to Change</entry>
+</row>
+<row>
+<entry/>
+<entry><emphasis effect="bold">Almost Never</emphasis></entry>
+<entry/>
+<entry/>
+<entry/>
+<entry><emphasis effect="bold">Almost Always</emphasis></entry>
+</row>
+</thead>
+<tfoot>
+<row>
+<entry namest="c1" nameend="c6"><emphasis effect="italics">Source:</emphasis> Adapted from K. Wexley and G. Latham, <emphasis effect="italics">Increasing Productivity Through Performance Appraisal,</emphasis> 3rd ed. Englewood Cliffs, NJ: Prentice Hall, 2001.</entry>
+</row>
+</tfoot>
+<tbody>
+<row>
+<entry><emphasis effect="bold">1.</emphasis> Describes the details of the change to subordinates</entry>
+<entry><emphasis effect="bold">1</emphasis></entry>
+<entry><emphasis effect="bold">2</emphasis></entry>
+<entry><emphasis effect="bold">3</emphasis></entry>
+<entry><emphasis effect="bold">4</emphasis></entry>
+<entry><emphasis effect="bold">5</emphasis></entry>
+</row>
+<row>
+<entry><emphasis effect="bold">2.</emphasis> Explains why the change is necessary</entry>
+<entry><emphasis effect="bold">1</emphasis></entry>
+<entry><emphasis effect="bold">2</emphasis></entry>
+<entry><emphasis effect="bold">3</emphasis></entry>
+<entry><emphasis effect="bold">4</emphasis></entry>
+<entry><emphasis effect="bold">5</emphasis></entry>
+</row>
+<row>
+<entry><emphasis effect="bold">3.</emphasis> Discusses how the change will affect the employee</entry>
+<entry><emphasis effect="bold">1</emphasis></entry>
+<entry><emphasis effect="bold">2</emphasis></entry>
+<entry><emphasis effect="bold">3</emphasis></entry>
+<entry><emphasis effect="bold">4</emphasis></entry>
+<entry><emphasis effect="bold">5</emphasis></entry>
+</row>
+<row>
+<entry><emphasis effect="bold">4.</emphasis> Listens to the employee’s concerns</entry>
+<entry><emphasis effect="bold">1</emphasis></entry>
+<entry><emphasis effect="bold">2</emphasis></entry>
+<entry><emphasis effect="bold">3</emphasis></entry>
+<entry><emphasis effect="bold">4</emphasis></entry>
+<entry><emphasis effect="bold">5</emphasis></entry>
+</row>
+<row>
+<entry><emphasis effect="bold">5.</emphasis> Asks the employee for help in making the change work</entry>
+<entry><emphasis effect="bold">1</emphasis></entry>
+<entry><emphasis effect="bold">2</emphasis></entry>
+<entry><emphasis effect="bold">3</emphasis></entry>
+<entry><emphasis effect="bold">4</emphasis></entry>
+<entry><emphasis effect="bold">5</emphasis></entry>
+</row>
+<row>
+<entry><emphasis effect="bold">6.</emphasis> If necessary, specifies the date for a follow-up meeting to respond to employee’s concerns</entry>
+<entry>1</entry>
+<entry>2</entry>
+<entry>3</entry>
+<entry>4</entry>
+<entry>5</entry>
+</row>
+<row>
+<entry>Total:</entry>
+<entry>6–10</entry>
+<entry>11–15</entry>
+<entry>16–20</entry>
+<entry>21–25</entry>
+<entry>26–30</entry>
+</row>
+<row>
+<entry/>
+<entry>Below adequate</entry>
+<entry>Adequate</entry>
+<entry>Full</entry>
+<entry>Excellent</entry>
+<entry>Superior</entry>
+</row>
+</tbody>
+
+
+
+</tgroup><caption>(Attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</table></section>
+<section id="fs-idm341581040"><title>Management by Objectives</title>
+<para id="fs-idm346378224">A popular technique for evaluating employees who are involved in jobs that have clear quantitative output is <term>management by objectives</term> (MBO). Although the concept of MBO encompasses much more than just the appraisal process (incorporating an organization-wide motivation, performance, and control system), we will focus here on its narrower application to evaluating employee performance. MBO is closely related to the goal-setting theory of motivation.</para>
+<para id="fs-idm341660528">Under MBO, individual employees work with their supervisor to establish goals and objectives for which they will be responsible during the coming year. These goals are stated in clear language and relate to tasks that are within the domain of the employee. An example of these goals for a sales representative is shown in <emphasis effect="bold"><link target-id="ch08tab04" document=""/></emphasis>. Following a specified period of time, the employee’s performance is compared to the preset goals to determine the extent to which the goals have been met or exceeded.</para>
+<table id="ch08tab04" summary="">
+<title/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c4" align="center">MBO Evaluation Report for Sales Representative</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Goals Categories</emphasis></entry>
+<entry><emphasis effect="bold">Goal</emphasis></entry>
+<entry><emphasis effect="bold">Actual Performance</emphasis></entry>
+<entry><emphasis effect="bold">Variance</emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><emphasis effect="bold">1.</emphasis> Number of sales calls</entry>
+<entry>40</entry>
+<entry>38</entry>
+<entry>95%</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">2.</emphasis> Number of new customers contacted</entry>
+<entry>10</entry>
+<entry>10</entry>
+<entry>100%</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">3.</emphasis> Number of customer complaints</entry>
+<entry>5</entry>
+<entry>10</entry>
+<entry>50%</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">4.</emphasis> Sales of product #1</entry>
+<entry>10,000 units</entry>
+<entry>11,000 units</entry>
+<entry>110%</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">5.</emphasis> Sales of product #2</entry>
+<entry>15,000 units</entry>
+<entry>14,000 units</entry>
+<entry>93%</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">6.</emphasis> Sales of product #3</entry>
+<entry>25,000 units</entry>
+<entry>30,000 units</entry>
+<entry>120%</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</table>
+<para id="fs-idm340121264">Several advantages of MBO have been observed. These include the ability to do better planning; improved motivation, because of knowledge of results; fairer evaluations, done on the basis of results rather than personality; improved commitment through participation; and improved supervisory skills in such areas as listening, counseling, and evaluating. On the negative side, however, MBO has been criticized because it emphasizes quantitative goals at the expense of qualitative goals and often creates too much paperwork. It is difficult to compare performance levels among employees because most are responsible for different goals. Sometimes the implementation of MBO goals are autocratic and therefore ineffective or even counterproductive. As discussed in the study of motivation, goals must be accepted to be effective. Finally, in order to be successful, MBO implementation must have constant attention and support from top management; MBO does not run itself. In the absence of this support, the technique loses legitimacy and often falls into disrepair.</para>
+</section>
+<section id="fs-idm349119376"><title>Assessment Centers</title>
+<para id="fs-idm349118864">A relatively new method of evaluation is the <term>assessment center</term><emphasis effect="italics">.</emphasis> Assessment centers are unique among appraisal techniques in that they focus more on evaluating an employee’s long-range potential to an organization than on her performance over the past year. They are also unique in that they are used almost exclusively among managerial personnel.</para>
+<para id="fs-idm349818960">An assessment center consists of a series of standardized evaluations of behavior based on multiple inputs. Over a two- or three-day period (away from the job), trained observers make judgments on managers’ behavior in response to specially developed exercises. These exercises may consist of in-basket exercises, role-playing, and case analyses, as well as personal interviews and psychological tests. An example of an assessment center program is shown in <emphasis effect="bold"><link target-id="ch08tab05" document=""/></emphasis>.</para>
+<table id="ch08tab05" summary="">
+<title/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c4" align="center">Example of Two-Day Assessment Center Schedule</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Day #1</emphasis></entry>
+<entry/>
+<entry><emphasis effect="bold">Day #2</emphasis></entry>
+<entry/>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>8:00–9:00 A.M.</entry>
+<entry>Orientation session</entry>
+<entry>8:00–10:30 A.M.</entry>
+<entry>In-basket exercise</entry>
+</row>
+<row>
+<entry>9:00 –10:30 A.M.</entry>
+<entry>Psychological testing</entry>
+<entry>10:30–10:45 A.M.</entry>
+<entry>Coffee break</entry>
+</row>
+<row>
+<entry>10:30–10:45 A.M.</entry>
+<entry>Coffee break</entry>
+<entry>10:45–12:30 P.M.</entry>
+<entry>Role-playing exercise</entry>
+</row>
+<row>
+<entry>10:45–12:30 P.M.</entry>
+<entry>Management simulation game</entry>
+<entry>12:30–1:30 P.M.</entry>
+<entry>Lunch</entry>
+</row>
+<row>
+<entry>12:30–1:30 P.M.</entry>
+<entry>Lunch</entry>
+<entry>1:30–3:15 P.M.</entry>
+<entry>Group problem-solving exercise</entry>
+</row>
+<row>
+<entry>1:30–3:15 P.M.</entry>
+<entry>Individual decision-making exercise</entry>
+<entry>3:15–3:30 P.M.</entry>
+<entry>Coffee break</entry>
+</row>
+<row>
+<entry>3:15–3:30 P.M.</entry>
+<entry>Coffee break</entry>
+<entry>3:30–4:30 P.M.</entry>
+<entry>Debriefing by raters</entry>
+</row>
+<row>
+<entry>3:30–4:30 P.M.</entry>
+<entry>Interview with raters</entry>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</table>
+<para id="fs-idm334436464">On the basis of these exercises, the trained observers make judgments on employees’ potential for future managerial assignments in the organization. More specifically, information is obtained concerning employees’ interpersonal skills, communication ability, creativity, problem-solving skills, tolerance for stress and ambiguity, and planning ability. This technique has been used successfully by some of the largest corporations in the United States, including AT&amp;T, IBM, and General Electric.</para>
+<para id="fs-idm334435456">Results from a series of assessment center programs appear promising, and the technique is growing in popularity as a means of identifying future managerial potential. For example, Coca-Cola USA experimented with using assessment centers to select its managerial personnel. After a detailed study, the company found that those selected in this way were only one-third as likely to leave the company or be fired than those selected in the traditional way. Although the assessment center approach added about 6 percent to the cost of hiring, the lower turnover rate led to large overall savings.<cite target-id="ch08rfin-6"><note class="reference" display="inline" id="ch08rfin-6">L. Slavenski, “Matching People to Jobs,” <emphasis effect="italics">Training and Development Journal,</emphasis> August 1986, pp. 54–57.</note></cite></para>
+<para id="fs-idm333048416">Some problems with the technique have been noted. In particular, because of the highly stressful environment created in assessment centers, many otherwise good managers may simply not perform to their potential. Moreover, the results of a poor evaluation in an assessment center may be far-reaching; individuals may receive a “loser” image that will follow them for a long time. And, finally, there is some question concerning exactly how valid and reliable assessment centers really are in predicting future managerial success.<cite target-id="ch08rfin-7"><note class="reference" display="inline" id="ch08rfin-7">F. D. Frank, D. W. Bracken, and M. R. Smith, “Beyond Assessment Centers,” <emphasis effect="italics">Training and Development Journal,</emphasis> March 1988, pp. 65–67.</note></cite> Despite these problems, assessment centers remain a popular vehicle in some companies for developing and appraising managerial potential.</para>
+<note id="fs-idm343225520" class="ethics-in-practice">
+<title>Tesla’s Performance Review</title>
+<para id="fs-idm343224640">At Tesla, the automotive giant, the standards are set extremely high for their employees. In 2017, Tesla conducted its annual performance reviews as it does each year. Due to the review process, the company sees both voluntary and involuntary departures. During the review process, the managers discuss “results that were achieved, as well as how those results were achieved” with their employees.* Tesla also has a performance recognition and compensation program that includes equity rewards as well as promotions in some cases, along with the constructive feedback.</para>
+<para id="fs-idm351436512">The departure of employees during the review period is not unique to Tesla; however, in 2017 there was a large exodus of approximately 700 employees following their employee reviews. Elon Musk, who recently has stepped down from the role of chairman and has been under scrutiny for his behavior,* saw the media coverage of this news as “ridiculous.”</para>
+<para id="fs-idm351436128">“You have two boxes of equal ability, and one’s much smaller, the big guy’s going to crush the little guy, obviously,” states Musk. “So, the little guy better have a heck of a lot more skill or he’s going to get clobbered. So that is why our standards are high . . . if they’re not high, we will die.”</para>
+<para id="fs-idm340981648">Overall, approximately 17 percent of their employees were promoted, almost half in manufacturing. As Tesla continues to grow and develop new vehicles, it is consistently pushing the boundaries and pushing its employees to new limits. Performance reviews are of the highest importance for Tesla’s business to succeed; the company needs the best people with the best skills. It is constantly growing and attempting to “suck the labor pool dry” to fill positions at many of its locations and factories.</para>
+<list id="fs-idm340981264" list-type="enumerated">
+<title>Questions:</title>
+<item>What factors do you feel could have changed in Tesla’s approach to its performance reviews?</item>
+<item>How can a high-pressure environment affect an employee’s performance? What factors should be considered to combat these issues?</item>
+</list>
+<para id="fs-idm340126832">Sources: K. Korosec. “Tesla Fires Hundreds of Workers After Their Annual Performance Review.” <emphasis effect="italics">Fortune</emphasis>, October 14, 2017,<emphasis effect="bold"/> http://fortune.com/2017/10/13/tesla-fires-employees/; D. Muoio. “Tesla fired 700 employees after performance reviews in the third quarter.” <emphasis effect="italics">Business Insider</emphasis>, November 1, 2017, https://www.businessinsider.com/tesla-fired-700-employees-performance-reviews-2017-11; J. Wattles. “Elon Musk agrees to pay $20 million and quit as Tesla chairman in deal with SEC.” <emphasis effect="italics">Money</emphasis>, September 30, 2018, https://money.cnn.com/2018/09/29/technology/business/elon-musk-tesla-sec-settlement/index.html.</para>
+</note>
+</section>
+<section id="fs-idm350140704"><title>Comparison of Appraisal Techniques</title>
+<para id="fs-idm347412560">It is important to consider which appraisal technique or set of techniques may be most appropriate for a given situation. Although there is no simple answer to this question, we can consider the various strengths and weaknesses of each technique. This is done in <emphasis effect="bold"><link target-id="ch08tab06" document=""/></emphasis>. It is important to keep in mind that the appropriateness of a particular appraisal technique is in part a function of the purpose for the appraisal. For example, if the purpose of the appraisal is to identify high potential executives, then assessment centers are more appropriate than rating scales.</para>
+<table id="ch08tab06" summary="">
+<title/>
+<tgroup cols="7">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c7" align="center">Major Strengths and Weaknesses of Appraisal Techniques</entry>
+</row>
+<row>
+<entry/>
+<entry>Rating Scales</entry>
+<entry>Critical Incidents</entry>
+<entry>BARS</entry>
+<entry>BOS</entry>
+<entry>MBO</entry>
+<entry>Assessment Centers</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Meaningful dimensions</entry>
+<entry>Sometimes</entry>
+<entry>Sometimes</entry>
+<entry>Usually</entry>
+<entry>Usually</entry>
+<entry>Usually</entry>
+<entry>Usually</entry>
+</row>
+<row>
+<entry>Amount of time required</entry>
+<entry>Low</entry>
+<entry>Medium</entry>
+<entry>High</entry>
+<entry>Medium</entry>
+<entry>High</entry>
+<entry>High</entry>
+</row>
+<row>
+<entry>Development costs</entry>
+<entry>Low</entry>
+<entry>Low</entry>
+<entry>High</entry>
+<entry>Medium</entry>
+<entry>Medium</entry>
+<entry>High</entry>
+</row>
+<row>
+<entry>Potential for rating errors</entry>
+<entry>High</entry>
+<entry>Medium</entry>
+<entry>Low</entry>
+<entry>Low</entry>
+<entry>Low</entry>
+<entry>Low</entry>
+</row>
+<row>
+<entry>Acceptability to subordinates</entry>
+<entry>Low</entry>
+<entry>Medium</entry>
+<entry>High</entry>
+<entry>High</entry>
+<entry>High</entry>
+<entry>High</entry>
+</row>
+<row>
+<entry>Acceptability to superiors</entry>
+<entry>Low</entry>
+<entry>Medium</entry>
+<entry>High</entry>
+<entry>High</entry>
+<entry>High</entry>
+<entry>High</entry>
+</row>
+<row>
+<entry>Usefulness for allocating rewards</entry>
+<entry>Poor</entry>
+<entry>Fair</entry>
+<entry>Good</entry>
+<entry>Good</entry>
+<entry>Good</entry>
+<entry>Fair</entry>
+</row>
+<row>
+<entry>Usefulness for employee counseling</entry>
+<entry>Poor</entry>
+<entry>Fair</entry>
+<entry>Good</entry>
+<entry>Good</entry>
+<entry>Good</entry>
+<entry>Good</entry>
+</row>
+<row>
+<entry>Usefulness for identifying promotion potential</entry>
+<entry>Poor</entry>
+<entry>Fair</entry>
+<entry>Fair</entry>
+<entry>Fair</entry>
+<entry>Fair</entry>
+<entry>Good</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</table>
+<para id="fs-idm350608656">As would be expected, the easiest and least expensive techniques are also the least accurate. They are also the least useful for purposes of personnel decisions and employee development. Once again, it appears that managers and organizations get what they pay for. If performance appraisals represent an important aspect of organizational life, clearly the more sophisticated—and more time-consuming—techniques are preferable. If, on the other hand, it is necessary to evaluate employees quickly and with few resources, techniques such as the graphic rating scale may be more appropriate. Managers must make cost-benefit decisions about the price (in time and money) they are willing to pay for a quality performance appraisal system.</para>
+<note id="fs-idm362303232" class="concept-check">
+<list id="fs-idm362302848" list-type="enumerated" number-style="arabic" class="no-style">
+<item>What are the techniques and scales used in performance appraisals?</item>
+<item>What are MBOs, and how do they relate to performance appraisals?</item>
+<item>What are assessment centers?</item>
+</list>
+</note>
+</section>
+<section id="fs-idm335407760" class="section-summary">
+<list id="fs-idm342029248" list-type="enumerated" start-value="2">
+<item>What practices are used in the performance appraisal process?</item>
+</list>
+<para id="fs-idm342028000">Performance appraisals are subject to several problems, including central tendency error, strictness or leniency error, halo effect, recency error, and personal biases.</para>
+</section>
+ </content>
+
+<glossary>
+<definition id="fs-idm342032704"><term>Assessment center</term>
+<meaning id="fs-idm350578640">Consists of a series of standardized evaluations of behavior based on multiple inputs.</meaning>
+</definition>
+<definition id="fs-idm350578128"><term>Behaviorally anchored rating scale</term>
+<meaning id="fs-idm350577616">A system that requires considerable work prior to evaluation but, if the work is carefully done, can lead to highly accurate ratings with high inter-rater reliability.</meaning>
+</definition>
+<definition id="fs-idm335350048"><term>Behavioral observation scale</term>
+<meaning id="fs-idm335349536">Identifies observable behaviors as they relate to performance and is less demanding of the evaluator.</meaning>
+</definition>
+<definition id="fs-idm335349024"><term>Critical incident technique</term>
+<meaning id="fs-idm349731664">A technique where supervisors record incidents, or examples, of each subordinate’s behavior that led to either unusual success or unusual failure on some aspect of the job.</meaning>
+</definition>
+<definition id="fs-idm349730624"><term>Graphic rating scale</term>
+<meaning id="fs-idm334619216">A performance appraisal technique where the supervisor or rater is typically presented with a printed or online form that contains both the employee’s name and several evaluation dimensions (quantity of work, quality of work, knowledge of job, attendance). The rater is then asked to rate the employee by assigning a number or rating on each of the dimensions.</meaning>
+</definition>
+<definition id="fs-idm348734496"><term>Management by objectives</term>
+<meaning id="fs-idm348733984">Closely related to the goal-setting theory of motivation.</meaning>
+</definition>
+</glossary>
+
+</document>

@@ -1,0 +1,10 @@
+﻿A diagram depicting the nine conflict reduction strategies. A double headed arrow, titled Target of change runs vertically with "Behavior" marked at the top and "Attitudes" marked at the bottom. Nine conflict reduction strategies are mentioned on the right of the arrow. Reading in continuation from top to bottom, strategies focus on changing behaviors near the top of the scale and changing attitudes near the bottom of the scale. Conflict reduction strategies from top to bottom read:
+1. Physical separation
+2. Use of rules and regulations
+3. Limiting intergroup interaction. 
+4. Use of integrators
+5. Confrontation and negotiation
+6. Third-party consultation
+7. Rotation of members
+8. Identification of interdependent tasks and superordinate goals
+9. Use of intergroup training

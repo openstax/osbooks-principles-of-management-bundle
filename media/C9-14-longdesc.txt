@@ -1,0 +1,1 @@
+﻿The flowchart shows the “Product Manager” acting as a link between the “Division Head” and four departments namely, “Marketing,” “Manufacturing,” “Quality Assurance,” and “Research and Development.” Each department is shown further connecting to the lower departments labeled as “Interdepartmental Task Force.”

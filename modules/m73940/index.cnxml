@@ -1,0 +1,239 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Business Model Canvas</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>m73940</md:content-id>
+  <md:title>Business Model Canvas</md:title>
+  <md:abstract/>
+  <md:uuid>8a22ca27-ad5a-4331-ac1d-ecc851e1e423</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm346834736" list-type="enumerated" start-value="3">
+<item>How can the business model canvas help us to describe and assess a business model?</item>
+</list>
+<para id="fs-idm324316144">A <emphasis effect="bold">business model</emphasis> describes the rationale of how an organization creates, delivers, and captures value. Entrepreneurs need to develop and refine a business model for themselves as they seek clarity about what they are doing, and also for discussing with colleagues, partners, and other stakeholders. Moreover, this business model will help them to identify opportunities in their internal and external environment. Originally developed by Alex Osterwalder and colleagues,<cite target-id="ch19rfin-6"><note class="reference" display="inline" id="ch19rfin-6">Alexander Osterwalder, Yves Pigneur, Alan Smith, and 470 practitioners from 45 countries. 2010. Business model generation. Wiley.</note></cite> the <emphasis effect="bold">business model canvas</emphasis> covers the four main areas of any venture: customers, offering, infrastructure, and financial viability. There are nine building blocks that describe and assess a business model: customer segments, value propositions, channels, customer relationships, revenue streams, key resources, key activities, key partnerships, and cost structure. <emphasis effect="bold"><link target-id="ch19tab01" document=""/></emphasis> depicts the business model canvas.</para>
+<table id="ch19tab01" summary="">
+<title/>
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c5">Business Model Canvas</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><para id="fs-idm341361744"><emphasis effect="bold">Key Partnerships</emphasis></para>
+<list id="fs-idm343542560" list-type="bulleted">
+<item>Who are our key partners and suppliers?</item>
+<item>Which key resources are from which partner?</item>
+<item>What key activities are done by partners?</item>
+</list></entry>
+<entry><para id="fs-idm341554240"><emphasis effect="bold">Key Activities</emphasis></para>
+<list id="fs-idm339785472" list-type="bulleted">
+<item>What key activities do our value proposition, channels, customer relationships, and revenue streams require?</item>
+</list></entry>
+<entry><para id="fs-idm342633184"><emphasis effect="bold">Value Proposition</emphasis></para>
+<list id="fs-idm351537984" list-type="bulleted">
+<item>What do we provide our customers?</item>
+<item>What problem are we solving?</item>
+<item>What are we offering to each customer segment?</item>
+</list></entry>
+<entry><para id="fs-idm348845296"><emphasis effect="bold">Customer Relationships</emphasis></para>
+<list id="fs-idm325340768" list-type="bulleted">
+<item>What type of relationship does each customer segment want?</item>
+<item>How costly are the relationships?</item>
+<item>How do we integrate them with the rest of our business model?</item>
+</list></entry>
+<entry><para id="fs-idm343097232"><emphasis effect="bold">Customer Segments</emphasis></para>
+<list id="fs-idm332553120" list-type="bulleted">
+<item>Who are our customers?</item>
+<item>From whom are we creating value?</item>
+</list></entry>
+</row>
+<row>
+<entry/>
+<entry><para id="fs-idm341757232"><emphasis effect="bold">Key Resources</emphasis></para>
+<list id="fs-idm344243328" list-type="bulleted">
+<item>What key resources do our value proposition, channels, customer relationships, and revenue streams require?</item>
+</list></entry>
+<entry/>
+<entry><para id="fs-idm339412656"><emphasis effect="bold">Channels</emphasis></para>
+<list id="fs-idm344011616" list-type="bulleted">
+<item>How will we reach our customer segments?</item>
+<item>How are our channels integrated?</item>
+<item>Which channels are the most efficient?</item>
+</list></entry>
+<entry/>
+</row>
+<row>
+<entry namest="c1" nameend="c3"><para id="fs-idm346570736"><emphasis effect="bold">Cost Structure</emphasis></para>
+<list id="fs-idm344560544" list-type="bulleted">
+<item>What are the most important costs in our business model?</item>
+<item>Which key activities and key resources are the most expensive?</item>
+</list></entry>
+<entry namest="c4" nameend="c5"><para id="fs-idm345786480"><emphasis effect="bold">Revenue Streams</emphasis></para>
+<list id="fs-idm340051152" list-type="bulleted">
+<item>What are customers willing to pay?</item>
+<item>What and how do they currently pay?</item>
+<item>How much does each revenue stream contribute to overall revenue?</item>
+</list></entry>
+</row>
+</tbody>
+</tgroup>
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</table>
+<section id="fs-idm341468848"><title>Nine Building Blocks of the Business Model Canvas</title>
+<para id="fs-idm350092384"><emphasis effect="italics">Customer segments</emphasis>: Without customers, businesses cannot survive. Businesses must identify and understand their customers, and they can group these customers into segments with common characteristics.</para>
+<para id="fs-idm343079856"><emphasis effect="italics">Value propositions</emphasis>: A company creates value, or benefits, for customers by solving a problem or satisfying a need. The value proposition is the reason that customers choose one option over another when deciding what to buy. Although certainly not an exhaustive list, customers may value: newness, performance, customization, design, brand, price, cost reduction, risk reduction, accessibility, and convenience.</para>
+<para id="fs-idm334511280"><emphasis effect="italics">Channels</emphasis>: Channels bring the value proposition to the customers through communication, distribution, and sales. Companies can reach their customer segments through a mix of channels, both direct (e.g., through sales force and web sales) and indirect (e.g., through own stores, partner stores, and wholesalers), to raise awareness, allow for purchase and delivery, provide customer support, and support other important functions of the business.</para>
+<para id="fs-idm350143904"><emphasis effect="italics">Customer relationships</emphasis>: Companies need to maintain relationships with their customers to acquire and retain customers and boost sales. Strong customer relationships can significantly impact overall customer experience. There are many categories of customer relationships including personal assistance, self-service, automated service, user communities, and cocreation.</para>
+<para id="fs-idm345738608"><emphasis effect="italics">Revenue streams</emphasis>: There are two types of revenue stream: revenues from one-time customers and revenues from ongoing payments. Revenue pricing mechanisms vary from fixed (e.g., predefined prices based on static variables) to dynamic (e.g., price changes based on market conditions). Revenue streams can be generated through asset sales (e.g., selling a physical product), usage fees, subscription fees, licensing, brokerage fees, advertising, and temporarily selling the use of a particular asset (e.g., lending, renting, or leasing).</para>
+<para id="fs-idm329334784"><emphasis effect="italics">Key resources</emphasis>: Any business needs resources—physical, financial, intellectual, and/or human—to function. These resources enable the company to provide their products or services to their customers.</para>
+<para id="fs-idm333781296"><emphasis effect="italics">Key activities</emphasis>: Key activities are the critical tasks that a company does to succeed and operate successfully. Different companies focus on different activities in categories such as production, problem-solving, and platform/network.</para>
+<para id="fs-idm346707344"><emphasis effect="italics">Key partnerships</emphasis>: Companies build partnerships to optimize their business, reduce risk, or gain resources. There are four main types of partnerships: strategic alliances between noncompetitors, coopetition—strategic alliances between competitors, joint ventures, and buyer-supplier relationships.</para>
+<para id="fs-idm340154688"><emphasis effect="italics">Cost structure</emphasis>: All businesses incur costs through operation, whether fixed or variable. They may also face economies of scale and scope. Companies consider their cost structures in two strategies—cost-driven, where all costs are reduced wherever possible, and value-driven, where the focus is on greater value creation. Cost structures will often consider fixed costs, variable costs, economies of scale, and economies of scope.</para>
+</section>
+<section id="fs-idm347853520"><title>Business Model Canvas Application: Apple</title>
+<para id="fs-idm351542272">To best illustrate the business model canvas, we can take a look at Apple illustrated in <emphasis effect="bold"><link target-id="ch19tab02" document=""/></emphasis>.</para>
+<para id="fs-idm339772464"><emphasis effect="italics">Customer segments</emphasis>: Apple’s main consumer segment is the mass market, and Apple sells globally to customers all over the world. These customers tend to have similar needs and problems that can be addressed through globally standardized offerings such as the iPhone and iPad (hardware) as well as iTunes (software).</para>
+<para id="fs-idm351879952"><emphasis effect="italics">Value proposition</emphasis>: In a competitive marketplace, Apple must offer a bundle of products and services that cater to the customer segment. As one illustration, Apple iTunes offers a seamless music experience where customers can easily find, purchase, and download music all in one place.</para>
+<para id="fs-idm341473648"><emphasis effect="italics">Channels</emphasis>: Customers are able to interact with Apple in person through retail stores and Apple stores as well as online through the iTunes store and Apple’s company website.</para>
+<para id="fs-idm345415888"><emphasis effect="italics">Customer relationships</emphasis>: Apple’s customers are dedicated to the brand and often have many Apple products, such as iPhones, iPads, and MacBooks. The Apple lovemark has become a status symbol.</para>
+<para id="fs-idm346249568"><emphasis effect="italics">Revenue streams</emphasis>: Apple earns most of its revenues from selling products such as iPods, and the iTunes store protects them from competition with similar features.</para>
+<para id="fs-idm341964432"><emphasis effect="italics">Key resources</emphasis>: Apple’s key resources include its name brand, hardware and software, and content.</para>
+<para id="fs-idm343288112"><emphasis effect="italics">Key activities</emphasis>: Apple products have outstanding marketing and hardware design.</para>
+<para id="fs-idm346872032"><emphasis effect="italics">Key partnerships</emphasis>: Through negotiations and contracts, Apple’s iTunes store is one of the world’s largest online music libraries.</para>
+<para id="fs-idm340540320"><emphasis effect="italics">Cost structure</emphasis>: Most of Apple’s costs come through manufacturing and marketing, including employee salaries.</para>
+<table id="ch19tab02" summary="">
+<title/>
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c5">Business Model Canvas for Apple</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><para id="fs-idm347993040"><emphasis effect="bold">Key Partnerships</emphasis></para>
+<list id="fs-idm342355824" list-type="bulleted">
+<item>Record companies</item>
+<item>OEMs</item>
+<item>People</item>
+<item>Content &amp; agreements</item>
+</list></entry>
+<entry><para id="fs-idm344912832"><emphasis effect="bold">Key Activities</emphasis></para>
+<list id="fs-idm339997392" list-type="bulleted">
+<item>Marketing</item>
+<item>Hardware design</item>
+</list></entry>
+<entry><para id="fs-idm342324896"><emphasis effect="bold">Value Proposition</emphasis></para>
+<list id="fs-idm324227088" list-type="bulleted">
+<item>Seamless music experience</item>
+</list></entry>
+<entry><para id="fs-idm346522320"><emphasis effect="bold">Customer Relationships</emphasis></para>
+<list id="fs-idm352867248" list-type="bulleted">
+<item>Lovemark</item>
+<item>Switching costs</item>
+</list></entry>
+<entry><para id="fs-idm344130768"><emphasis effect="bold">Customer Segments</emphasis></para>
+<list id="fs-idm353385760" list-type="bulleted">
+<item>Mass market</item>
+</list>
+</entry>
+</row>
+<row>
+<entry/>
+<entry><para id="fs-idm338165728"><emphasis effect="bold">Key Resources</emphasis></para>
+<list id="fs-idm348853440" list-type="bulleted">
+<item>Apple brand</item>
+<item>iPad hardware</item>
+<item>iTunes software</item>
+<item>Content &amp; agreements</item>
+</list></entry>
+<entry/>
+<entry><para id="fs-idm325366736"><emphasis effect="bold">Channels</emphasis></para>
+<list id="fs-idm349832480" list-type="bulleted">
+<item>Retail stores</item>
+<item>Apple stores</item>
+<item>Apple.com</item>
+<item>iTunes store</item>
+</list></entry>
+<entry/>
+</row>
+<row>
+<entry namest="c1" nameend="c3"><para id="fs-idm351385248"><emphasis effect="bold">Cost Structure</emphasis></para>
+<list id="fs-idm344050624" list-type="bulleted">
+<item>People</item>
+<item>Manufacturing</item>
+<item>Marketing/sales</item>
+</list></entry>
+<entry namest="c4" nameend="c5"><para id="fs-idm349975920"><emphasis effect="bold">Revenue Streams</emphasis></para>
+<list id="fs-idm341155216" list-type="bulleted">
+<item>iTunes store</item>
+<item>Large hardware revenues</item>
+<item>Some music revenues</item>
+</list></entry>
+</row>
+</tbody>
+</tgroup>
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</table>
+<para id="fs-idm343136816">The business model canvas can be used to determine how to compete, as either an initial entrant or a fast follower. An entrepreneurial organization is often a <emphasis effect="bold">first mover</emphasis> by introducing a new product or service category that can potentially define an innovation’s characteristics in the minds of buyers, gaining valuable name recognition and brand loyalty. First movers can also lock in key resources (such as certain distribution channels) and set a technology standard. <emphasis effect="bold">Second movers</emphasis> have the potential advantage of learning from and improving on the first mover’s efforts. For example, second movers can take advantage of existing customers and optimize the first mover’s product to add new features, especially when customers are willing to switch. Research on the battle between first and second movers indicates that they are equally likely to win the market.<cite target-id="ch19rfin-7"><note class="reference" display="inline" id="ch19rfin-7">Lieberman, M.B. and Montgomery, D.B., 1988. First-mover advantages. Strategic Management Journal, 9(S1), pp.41-58.</note></cite> One illustration of first and second movers is in China’s competitive mobile payment industry.</para>
+<note id="fs-idm316984608" class="expanding-around-globe">
+<title>The War of Two “Horses”: First and Second Movers in China’s Mobile Payment Industry</title>
+<para id="fs-idm347852320">Over the last decade, Chinese people have been rapidly and systematically utilizing mobile payment—that is, payment services performed through a mobile device. This trend kicked off with China’s first e-commerce wholesale platform Alibaba, founded by Jack Ma from his humble apartment in Hangzhou, China, in 1999. Responding to eBay’s growing presence in China a few years later, Jack Ma launched taobao.com, a consumer-to-consumer (C2C) and business-to-consumer (B2C) online marketplace. To support taobao.com’s transactions, Jack Ma released Alipay later that year as a “third-party online payment platform.” Mobile payment became a reality in China when Alipay released its mobile app in 2008, which can be used to pay water, electricity, and gas bills as well as mobile phone fees. After 2011, when the first third-party payment license was issued to Alipay, more Chinese consumers replaced their credit cards and debit cards with Alipay. By 2013, Alipay overtook PayPal as the world's largest mobile payment platform. Alipay dominated 69.6 percent of China’s mobile payment market. Jack Ma was the “only horse” (the surname Ma means “horse” in Chinese) in the field and a clear first mover, but faced a solid rival in second mover IT giant Tencent.</para>
+<para id="fs-idm350114688">Ma Huateng founded Tencent Inc. in 1998, and its early years focused on the iconic product of QQ, China’s first instant messaging software product. Tencent expanded into other Internet fields such as games, music, microblogging, and online shopping. By 2011, Tencent’s QQ was China’s most successful instant messaging software with over 700 million active users, and the company released WeChat, another instant messaging software product. Tencent’s two software products competed in the same space, with QQ primarily PC-based with “online” and “offline” status, and WeChat smartphone-based without “offline” status. WeChat soon acquired over 300 million users. Tencent is often described as a successful “second mover,” imitating a promising business model introduced by innovative first-mover firms and then surpassing these firms.</para>
+<para id="fs-idm346454544">The two IT giants faced off in 2013 when each invested in a taxi booking app: Didi (by Tencent) and Kuaidi (by Alibaba). In an August 2013 5.0 version update of WeChat, users were surprised to find a “wallet” function added to the app, but most did not know how to use it. However, for Jack Ma and Ma Huateng, all had become clear: the two “horses” were going to war.</para>
+<para id="fs-idm344209328">Tencent offered and then linked three seemingly unrelated apps: smartphone-based WeChat, taxi-booking app Didi, and a new wallet function. In January 2014, WeChat wallet was linked to Didi as the payment method. Passengers using WeChat to pay the taxi fare received a generous subsidy from Tencent, making taxi fare lower than bus fare. Alipay and the Kuaidi app responded in a similar way. While widely welcomed by white-collar workers, the money-burning campaign cost each side approximately 1.5 billion RMB (US$244 million). For Ma Huateng, the campaign is not just about occupying the newly born taxi-booking app market in China, but also about penetrating Jack Ma’s precious share of the mobile payment market by “teaching” WeChat users how to use make mobile payments. Weeks later, Ma Huateng continued his “teaching” in the virtual red envelope campaign during Chinese Spring Festival. The virtual red envelope is modeled after the Chinese tradition of exchanging packets of money among friends and family members during holidays. WeChat introduced the “red envelope shake” to the Chinese Spring Festival Gala, during which users were invited to shake their smartphones for a chance to win red envelopes, and eight million WeChat users participated in this promotion campaign. WeChat users can save the money won to their WeChat “wallet” and then send it to others with their own red envelope. WeChat sent 1.2 billion red envelopes worth over half a billion RMB (US$82 million) during the promotion. However, to use the money from the red envelope, WeChat users needed to add their bank card to their WeChat account and thus fully activate the WeChat payment function. Retrospectively, Jack Ma regarded the WeChat red envelope promotion as a “Pearl Harbor attack” on his territory.</para>
+<para id="fs-idm346334272">After the Chinese Spring Festival, the money-burning war game between first mover Alipay and second mover WeChat continued. Both sides heavily subsidized taxi passengers on their taxi-booking apps through 2014. In the third quarter of 2014, Alipay’s market share reached a peak of 82.6 percent, but WeChat’s increasing presence the in mobile payment market was unstoppable. Both sides engaged in a new red envelope campaign during the next Spring Festival holiday. While Alipay fought hard to defend its market share, WeChat’s social nature smoothly transformed users into payers.</para>
+<para id="fs-idm326338480">By the end of 2016, both sides saw continuous growth in user population; however, Alipay’s market share dropped to 54.10 percent, and Tencent and WeChat’s market share rose to 37.02 percent. In that year, consumers spent 157.55 trillion RMB (US$23.72 trillion) on mobile devices in China, and QR codes and POS machines supporting both Alipay and WeChat could be found at street food vendors, supermarkets, department stores, and online markets.</para>
+<list id="fs-idm341755104" list-type="enumerated">
+<title>Discussion Questions:</title>
+<item>What tactics did Tencent use to encroach on Alibaba’s share of the mobile payment market?</item>
+<item>What key resources did WeChat use to compete with Alipay?</item>
+<item>Does WeChat’s presence in the mobile payment market always negatively affect Alipay?</item>
+<item>Would you rather be a first mover or a second mover in a new technology market?</item>
+</list>
+<para id="fs-idm341837136">Sources: Sophia Yan, “6 things you never knew about Alibaba”, CNN, May 12, 2015, http://money.cnn.com/2015/05/12/technology/alibaba-surprising-facts/index.html; Paul Mozur, “In Urban China, Cash Is Rapidly Becoming Obsolete”, New York Times, July 16, 2017, https://www.nytimes.com/2017/07/16/business/china-cash-smartphone-payments.html; Eva Xiao, “How WeChat Pay became Alipay’s largest rival”, Tech in Asia, April 20, 2017, https://www.techinasia.com/wechat-pay-vs-alipay; Anonymous Author, “WeChat”, Wikipedia, October 2 2017, https://en.wikipedia.org/wiki/WeChat#WeChat_Pay_payment_services; Anonymous Author, “WeChat red envelope”, Wikipedia, September 19, 2017, https://en.wikipedia.org/wiki/WeChat_red_envelope; Anonymous Author, “Alipay”, Wikipedia; September 8, 2017, https://en.wikipedia.org/wiki/Alipay; Nie Chenjing, “Mobile Payment Report: Alipay Shares Occupy Half of the Country”, Xinhuanet, March 31, 2017; http://news.xinhuanet.com/fortune/2017-03/31/c_1120732899.htm; Li Yanxia, “Central Bank Report: China Mobile’s payment amount increased by nearly 50% year-on-year in 2016, March 16, 2017, http://it.people.com.cn/n1/2017/0316/c1009-29150183.html.</para>
+</note>
+<note id="fs-idm342555024" class="concept-check">
+<list id="fs-idm326273776" list-type="enumerated" number-style="arabic" class="no-style">
+<item>What are the key components of the business model canvas?</item>
+<item>What are the advantages and disadvantages of being a first mover?</item>
+</list>
+</note>
+</section>
+<section id="fs-idm349403600" class="section-summary">
+<list id="fs-idm332626144" list-type="enumerated" start-value="3">
+<item>How can the business model canvas help us to describe and assess a business model?</item>
+</list>
+<para id="fs-idm350145472">A business model provides an explanation of how an organization creates, delivers, and captures value. The business model canvas achieves this goal by describing four main areas of any venture—customers, offering, infrastructure, and financial viability—through nine building blocks that describe and assess a business model. Customer segments are categories of customers that have common characteristics. The value proposition is the reason that customers choose one option over another when deciding what to buy. Channels bring the value proposition to the customers through communication, distribution, and sales. Companies need to maintain relationships with their customers to acquire and retain customers and boost sales. There are two general types of revenue stream: revenues from one-time customers and revenues from ongoing payments. Any business needs resources—physical, financial, intellectual, and/or human—to function and provide their products or services to their customers. Key activities are the critical tasks that a company does to succeed and operate successfully. Companies build partnerships to optimize their business, reduce risk, or gain resources. All businesses incur costs through operation, whether fixed or variable.</para>
+</section>
+ </content>
+
+<glossary>
+<definition id="fs-idm324275360"><term>business model</term>
+<meaning id="fs-idm343558192">Rationale of how an organization creates, delivers, and captures value.</meaning>
+</definition>
+<definition id="fs-idm344218176"><term>business model canvas</term>
+<meaning id="fs-idm346313472">A tool to describe and assess a business model, encompassing nine components: customer segments, value propositions, channels, customer relationships, revenue streams, key resources, key activities, key partnerships, and cost structure.</meaning>
+</definition>
+<definition id="fs-idm339695776"><term>first mover</term>
+<meaning id="fs-idm343973392">Introducing a new product or service category first can potentially define an innovation’s characteristics in the minds of buyers, gaining valuable name recognition and brand loyalty.</meaning>
+</definition>
+<definition id="fs-idm332636896"><term>second movers</term>
+<meaning id="fs-idm343370640">Second-to-market organization that can learn from and improve on the first mover’s efforts.</meaning></definition>
+</glossary>
+
+</document>

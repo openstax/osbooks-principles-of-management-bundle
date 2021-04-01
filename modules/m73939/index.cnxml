@@ -1,0 +1,84 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:q="http://cnx.rice.edu/qml/1.0" xmlns:data="http://www.w3.org/TR/html5/dom.html#custom-data-attribute" id="new" cnxml-version="0.7" module-id="new">
+
+<title>Overview of Entrepreneurship</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>m73939</md:content-id>
+  <md:title>Overview of Entrepreneurship</md:title>
+  <md:abstract/>
+  <md:uuid>00d3a6d2-c9dc-44f2-8dad-b7030939b174</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm225015616" list-type="enumerated">
+<item>What are some different types of entrepreneurship?</item>
+</list>
+<para id="fs-idm229252432">Entrepreneurship is a global phenomenon, with individuals all over the world at various stages of the process. While there are many definitions of <emphasis effect="bold">entrepreneurs</emphasis> and <emphasis effect="bold">entrepreneurship</emphasis>, we consider the scholarly field as defined by Shane and Venkataraman<cite target-id="ch19rfin-1"><note class="reference" display="inline" id="ch19rfin-1">Scott Shane, and Sankara Venkataraman, S. 2000. The promise of entrepreneurship as a field of research. Academy of Management Review, 25(1), 217-226.</note></cite> that seeks to understand how opportunities are discovered, created, and exploited; by whom; and with what consequences. When most people think of entrepreneurship, they may think of individuals such as Maria Rose Belding, as well as Jeff Bezos (Amazon) and Elon Musk (Tesla and SpaceX). However, there are many other types of entrepreneurship that we will explore in this chapter. MEANS Database is an example of <emphasis effect="bold">social entrepreneurship</emphasis>—that is, creating innovative solutions to immediate social and/or environment problems and mobilizing resources to achieve social transformation. MEANS Database illustrates how social entrepreneurs often solve problems more effectively than the government. Entrepreneurs can also operate inside existing organizations: <emphasis effect="bold">corporate entrepreneurship</emphasis> involves the creation of new products, processes, and ventures within large organizations. Another prevalent type is <emphasis effect="bold">family entrepreneurship</emphasis>—that is, when a business is owned and managed by multiple family members, usually for more than one generation. <emphasis effect="bold">Serial or habitual entrepreneurship</emphasis> refers to individuals who start several businesses, simultaneously or one after another. Entrepreneurship can also be classified according to the desired goals—for example, individuals who pursue <emphasis effect="bold">lifestyle entrepreneurship</emphasis> typically create a venture to suit a personal lifestyle and not for the sole purpose of making profits. <emphasis effect="bold">High-technology entrepreneurship</emphasis> involves ventures in the information, communication, and technology space, which typically have high expectations for revenue growth. Entrepreneurs can also be classified according to the stage of their venture development, as outlined in the Global Entrepreneurship Monitor (GEM) research program in the next section.</para>
+<section id="fs-idm228812016"><title>Global Entrepreneurship Prevalence</title>
+<para id="fs-idm225905232">Each year, the Global Entrepreneurship Monitor (GEM)<cite target-id="ch19rfin-2"><note class="reference" display="inline" id="ch19rfin-2">Global Entrepreneurship Monitor. 2018. GEM 2017/2018 Global Report. https://gemconsortium.org/report/50012</note></cite> study gathers data from 60+ countries to determine how many individuals are engaged in various phases of entrepreneurship. The first phase captures <emphasis effect="bold">potential entrepreneurs</emphasis> who believe that they have the capacity and knowledge to start a venture and don’t fear failure. If you are reading this book and believe that you are developing the skills necessary to someday start your own company, and you believe that the risk-reward payoff is promising, then you fit this definition of a potential entrepreneur. The next GEM category is <emphasis effect="bold">nascent entrepreneurs</emphasis> who have set up or are in the process of setting up a venture that they will own/co-own that is less than three months old and has not yet generated wages/salaries. <emphasis effect="bold">New business owners</emphasis> operate a business for over three months but less than three years. And finally, <emphasis effect="bold">established business owners</emphasis> actively run a business that is over three and a half years old. GEM researchers calculate a Total Entrepreneurial Activity (TEA) rate, which is the percentage of the adult population (ages 18–64) who are either nascent entrepreneurs or owner-managers of a new business. <emphasis effect="bold"><link target-id="ch19fig02" document=""/></emphasis> provides an overview of the GEM model to measure entrepreneurial activity in a given economy. As shown, GEM data captures attributes of the individual entrepreneur, industry sector, and expected impact in terms of potential business growth, use of innovation, and share of international customers. <emphasis effect="bold"><link target-id="ch19fig03" document=""/></emphasis> shows the most recently available rates of entrepreneurial activities across geographic regions. These regions are classified by their development status, with factor-driven countries the least developed; these countries subsist primarily on agriculture and extraction businesses, and rely heavily on unskilled labor and natural resources. Efficiency-driven economies are more competitive and utilize more advanced and efficient production processes to provide better-quality products and services. Innovation-driven economies are the most developed, typically relying on knowledge-intensive industries and an expanded service sector. As shown, entrepreneurial activity rates range from nearly 20 percent of the adult population in Ecuador to lows of less than 5 percent in several countries such as Bulgaria, Bosnia &amp; Herzegovina, Italy, and Japan. Entrepreneurship rates can be extremely high in factor-driven countries as there are fewer traditional businesses and entrepreneurship may be the only good opportunity in the labor market. Among innovation-driven economies, the U.S. has one of the highest TEA levels, perhaps due to the American culture of individualism and the many organizations that support entrepreneurship. Another key factor is societal value, which we review in the next section.</para>
+<figure id="ch19fig02" class="scaled-down">
+<title>Model and Measures of Entrepreneurial Activity</title>
+<media id="ch19media02" alt="A diagram illustrates the model and measures of entrepreneurial activity." longdesc="C19-2-longdesc.txt"><image mime-type="image/png" src="../../media/Exhibit 19-2 Model and Measures of Entrepreneurial Activity.png"/></media>
+<caption>Source: Adapted from <emphasis effect="italics">Global Entrepreneurship Monitor</emphasis> 2017/2018 report, page 22 (Attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+<figure id="ch19fig03" class="scaled-down">
+<title>Entrepreneurial Activity in 2017/2018</title>
+<media id="ch19media03" alt="A diagram illustrates the entrepreneurial activities between 2017 and 2018." longdesc="C19-3-longdesc.txt"><image mime-type="image/png" src="../../media/Exhibit 19-3 Entrepreneurial Activity in 2017-2018.png"/></media>
+<caption>Source: Global Entrepreneurship Monitor 2017/2018 report, pages 34-35 (Attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
+</figure>
+</section>
+<section id="fs-idm227938416"><title>Societal Value for Global Entrepreneurship</title>
+<para id="fs-idm210977312">The GEM research project also examines societal values for entrepreneurship, which can help drive an abundance or lack of entrepreneurs. In the 2017/2018 report, across 52 economies, there was strong support for entrepreneurship as a good career choice. The lowest levels were reported in innovation-driven economies, perhaps because there are many good corporate career options. GEM researchers identified that almost 70 percent of the adult population believes that entrepreneurs enjoy high status within their societies. There are slight differences, with factor-driven countries reporting higher status levels as compared to innovation- and efficiency-driven countries. Moreover, across 52 economies, about 61 percent of adults believe that entrepreneurs garner substantial media attention, with the higher levels in increasingly developed economies. This data suggests that when entrepreneurs are portrayed favorably in the media, individuals will be more likely to consider entrepreneurship as a career.</para>
+<figure id="ch19fig04" class="scaled-down"><title>Development Group Averages for Societal Values about Entrepreneurship in 52 Economies</title><media id="ch19media04" alt="A graphical representation plots the development group averages for societal values about entrepreneurship based on factor driven, efficiency driven, and innovation driven." longdesc="C19-4-longdesc.txt"><image mime-type="image/png" src="../../media/Exhibit 19-4 Development Group Averages for Societal Values about Entrepreneurship.png"/></media>
+
+<caption>Source: Adapted from Global Entrepreneurship Monitor 2017/2018 report, page 27 (Attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption></figure><note id="fs-idm215393392" class="concept-check">
+<list id="fs-idm228794000" list-type="enumerated" number-style="arabic" class="no-style">
+<item>What are some different types of entrepreneurs?</item>
+<item>How does entrepreneurship differ across countries?</item>
+</list>
+</note>
+</section>
+<section id="fs-idm227956624" class="section-summary">
+<list id="fs-idm221513920" list-type="enumerated">
+<item>What are some different types of entrepreneurship?</item>
+</list>
+<para id="fs-idm228748576">Entrepreneurship is the creation of something valuable. Social entrepreneurship involves creating innovative solutions to immediate social and/or environmental problems and mobilizing resources to achieve social transformation. Corporate entrepreneurship involves the creation of new products, processes, and ventures within existing large organizations. Family entrepreneurship involves a business that is owned and managed by multiple family members, usually for more than one generation. Serial or habitual entrepreneurship refers to individuals who start several businesses, simultaneously or one after another. Lifestyle entrepreneurship involves a venture to suit a personal <emphasis effect="italics">lifestyle</emphasis> and not for the sole purpose of making profit. High-technology entrepreneurship involves ventures in the information, communication, and technology space.</para>
+</section>
+ </content>
+
+<glossary>
+<definition id="fs-idm227796432"><term>corporate entrepreneurship</term>
+<meaning id="fs-idm217960128">The creation of new products, processes, and ventures within large organizations.</meaning>
+</definition>
+<definition id="fs-idm216478192"><term>entrepreneurs</term>
+<meaning id="fs-idm225953248">Individuals who recognize and pursue opportunities, take on risk, and convert these opportunities into value-added ventures that can survive in a competitive marketplace.</meaning>
+</definition>
+<definition id="fs-idm213677888"><term>established business owners</term>
+<meaning id="fs-idm229074016">Individuals who are still active in a business that is more than three and a half years old.</meaning>
+</definition>
+<definition id="fs-idm217172912"><term>family entrepreneurship</term>
+<meaning id="fs-idm212332112">A business is owned and managed by multiple family members, usually for more than one generation.</meaning>
+</definition>
+<definition id="fs-idm210839680"><term>high-technology entrepreneurship</term>
+<meaning id="fs-idm211217104">Ventures in the information, communication, and technology space; typically have high growth expectations.</meaning>
+</definition>
+<definition id="fs-idm214897568"><term>lifestyle entrepreneurship</term>
+<meaning id="fs-idm219251568">Creating a venture to suit a personal lifestyle and not for the sole purpose of making profits.</meaning>
+</definition>
+<definition id="fs-idm211907904"><term>nascent entrepreneurs</term>
+<meaning id="fs-idm220118608">Individuals who have set up a business they will own or co-own that is less than three months old and has not yet generated wages or salaries for the owners.</meaning>
+</definition>
+<definition id="fs-idm214856064"><term>new business owners</term>
+<meaning id="fs-idm216976032">Former nascent entrepreneurs who are actively involved in a business for more than three months but less than three and a half years.</meaning>
+</definition>
+<definition id="fs-idm217117520"><term>potential entrepreneurs</term>
+<meaning id="fs-idm215805136">Individuals who believe that they possess the capacity and knowledge to start a business.</meaning>
+</definition>
+<definition id="fs-idm215814992"><term>serial or habitual entrepreneurship</term>
+<meaning id="fs-idm215310528">Individuals who start several businesses, simultaneously or one after another.</meaning>
+</definition>
+<definition id="fs-idm222262576"><term>social entrepreneurship</term>
+<meaning id="fs-idm218833712">Creating innovative solutions to immediate social and/or environment problems and mobilizing resources to achieve social transformation.</meaning>
+</definition>
+</glossary>
+
+</document>
