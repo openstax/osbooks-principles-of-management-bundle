@@ -1,472 +1,228 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:cnx="http://cnx.rice.edu/cnxml" xmlns:cnxorg="http://cnx.rice.edu/system-info" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col29124</md:content-id>
     <md:title>Organizational Behavior</md:title>
+    <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>2d941ab9-ac5b-4eb8-b21c-965d36a4f296</md:uuid>
 <md:slug>organizational-behavior</md:slug>
 </metadata>
-  <col:parameters>
-    <col:param name="print-style" value="principles-management-prod"/>
-  </col:parameters>
   <col:content>
-    <col:module document="m73739" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-      <md:title>Preface</md:title>
-    </col:module>
+    <col:module document="m73739"/>
     <col:subcollection>
       <md:title>Management and Organizational Behavior</md:title>
       <col:content>
-        <col:module document="m73740" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m73741" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.4">
-          <md:title>The Nature of Work</md:title>
-        </col:module>
-        <col:module document="m73742" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>The Changing Workplace</md:title>
-        </col:module>
-        <col:module document="m73743" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.4">
-          <md:title>The Nature of Management</md:title>
-        </col:module>
-        <col:module document="m73744" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.4">
-          <md:title>A Model of Organizational Behavior and Management</md:title>
-        </col:module>
+        <col:module document="m73740"/>
+        <col:module document="m73741"/>
+        <col:module document="m73742"/>
+        <col:module document="m73743"/>
+        <col:module document="m73744"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Individual and Cultural Differences</md:title>
       <col:content>
-        <col:module document="m73745" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m73748" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Individual and Cultural Factors in Employee Performance</md:title>
-        </col:module>
-        <col:module document="m73757" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>Employee Abilities and Skills</md:title>
-        </col:module>
-        <col:module document="m73751" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Personality: An Introduction</md:title>
-        </col:module>
-        <col:module document="m73753" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Personality and Work Behavior</md:title>
-        </col:module>
-        <col:module document="m73755" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Personality and Organization: A Basic Conflict?</md:title>
-        </col:module>
-        <col:module document="m73758" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.4">
-          <md:title>Personal Values and Ethics</md:title>
-        </col:module>
-        <col:module document="m73759" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>Cultural Differences</md:title>
-        </col:module>
+        <col:module document="m73745"/>
+        <col:module document="m73748"/>
+        <col:module document="m73757"/>
+        <col:module document="m73751"/>
+        <col:module document="m73753"/>
+        <col:module document="m73755"/>
+        <col:module document="m73758"/>
+        <col:module document="m73759"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Perception and Job Attitudes</md:title>
       <col:content>
-        <col:module document="m73762" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m73763" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>The Perceptual Process</md:title>
-        </col:module>
-        <col:module document="m73764" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>Barriers to Accurate Social Perception</md:title>
-        </col:module>
-        <col:module document="m73765" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>Attributions: Interpreting the Causes of Behavior</md:title>
-        </col:module>
-        <col:module document="m73766" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Attitudes and Behavior</md:title>
-        </col:module>
-        <col:module document="m73767" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.4">
-          <md:title>Work-Related Attitudes</md:title>
-        </col:module>
+        <col:module document="m73762"/>
+        <col:module document="m73763"/>
+        <col:module document="m73764"/>
+        <col:module document="m73765"/>
+        <col:module document="m73766"/>
+        <col:module document="m73767"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Learning and Reinforcement</md:title>
       <col:content>
-        <col:module document="m73768" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m73769" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.4">
-          <md:title>Basic Models of Learning</md:title>
-        </col:module>
-        <col:module document="m73770" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.4">
-          <md:title>Reinforcement and Behavioral Change</md:title>
-        </col:module>
-        <col:module document="m73771" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Behavior Modification in Organizations</md:title>
-        </col:module>
-        <col:module document="m73772" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Behavioral Self-Management</md:title>
-        </col:module>
+        <col:module document="m73768"/>
+        <col:module document="m73769"/>
+        <col:module document="m73770"/>
+        <col:module document="m73771"/>
+        <col:module document="m73772"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Diversity in Organizations</md:title>
       <col:content>
-        <col:module document="m70668" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70669" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>An Introduction to Workplace Diversity</md:title>
-        </col:module>
-        <col:module document="m70670" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.13">
-          <md:title>Diversity and the Workforce</md:title>
-        </col:module>
-        <col:module document="m70671" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.13">
-          <md:title>Diversity and Its Impact on Companies</md:title>
-        </col:module>
-        <col:module document="m72856" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.11">
-          <md:title>Challenges of Diversity</md:title>
-        </col:module>
-        <col:module document="m70672" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Key Diversity Theories</md:title>
-        </col:module>
-        <col:module document="m70673" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Benefits and Challenges of Workplace Diversity</md:title>
-        </col:module>
-        <col:module document="m70674" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Recommendations for Managing Diversity</md:title>
-        </col:module>
+        <col:module document="m70668"/>
+        <col:module document="m70669"/>
+        <col:module document="m70670"/>
+        <col:module document="m70671"/>
+        <col:module document="m72856"/>
+        <col:module document="m70672"/>
+        <col:module document="m70673"/>
+        <col:module document="m70674"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Perception and Managerial Decision Making</md:title>
       <col:content>
-        <col:module document="m70608" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.10">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70732" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Overview of Managerial Decision-Making</md:title>
-        </col:module>
-        <col:module document="m70610" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>How the Brain Processes Information to Make Decisions: Reflective and Reactive Systems</md:title>
-        </col:module>
-        <col:module document="m70611" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Programmed and Nonprogrammed Decisions</md:title>
-        </col:module>
-        <col:module document="m70723" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.10">
-          <md:title>Barriers to Effective Decision-Making</md:title>
-        </col:module>
-        <col:module document="m70614" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.11">
-          <md:title>Improving the Quality of Decision-Making</md:title>
-        </col:module>
-        <col:module document="m70616" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Group Decision-Making</md:title>
-        </col:module>
+        <col:module document="m70608"/>
+        <col:module document="m70732"/>
+        <col:module document="m70610"/>
+        <col:module document="m70611"/>
+        <col:module document="m70723"/>
+        <col:module document="m70614"/>
+        <col:module document="m70616"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Work Motivation for Performance</md:title>
       <col:content>
-        <col:module document="m70685" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.11">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70686" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Motivation: Direction and Intensity</md:title>
-        </col:module>
-        <col:module document="m70687" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.11">
-          <md:title>Content Theories of Motivation</md:title>
-        </col:module>
-        <col:module document="m70688" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Process Theories of Motivation</md:title>
-        </col:module>
-        <col:module document="m70689" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Recent Research on Motivation Theories</md:title>
-        </col:module>
+        <col:module document="m70685"/>
+        <col:module document="m70686"/>
+        <col:module document="m70687"/>
+        <col:module document="m70688"/>
+        <col:module document="m70689"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Performance Appraisal and Rewards</md:title>
       <col:content>
-        <col:module document="m73794" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m73795" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Performance Appraisal Systems</md:title>
-        </col:module>
-        <col:module document="m73796" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Techniques of Performance Appraisal</md:title>
-        </col:module>
-        <col:module document="m73797" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Feedback</md:title>
-        </col:module>
-        <col:module document="m73798" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.4">
-          <md:title>Reward Systems in Organizations</md:title>
-        </col:module>
-        <col:module document="m73799" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Individual and Group Incentive Plans</md:title>
-        </col:module>
+        <col:module document="m73794"/>
+        <col:module document="m73795"/>
+        <col:module document="m73796"/>
+        <col:module document="m73797"/>
+        <col:module document="m73798"/>
+        <col:module document="m73799"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Group and Intergroup Relations</md:title>
       <col:content>
-        <col:module document="m73800" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m73801" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Work Groups: Basic Considerations</md:title>
-        </col:module>
-        <col:module document="m73802" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.4">
-          <md:title>Work Group Structure</md:title>
-        </col:module>
-        <col:module document="m73803" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Managing Effective Work Groups</md:title>
-        </col:module>
-        <col:module document="m73804" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>Intergroup Behavior and Performance</md:title>
-        </col:module>
+        <col:module document="m73800"/>
+        <col:module document="m73801"/>
+        <col:module document="m73802"/>
+        <col:module document="m73803"/>
+        <col:module document="m73804"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Understanding and Managing Work Teams</md:title>
       <col:content>
-        <col:module document="m70690" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70691" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Teamwork in the Workplace</md:title>
-        </col:module>
-        <col:module document="m70692" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Team Development Over Time</md:title>
-        </col:module>
-        <col:module document="m70693" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Things to Consider When Managing Teams</md:title>
-        </col:module>
-        <col:module document="m70694" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Opportunities and Challenges to Team Building</md:title>
-        </col:module>
-        <col:module document="m70695" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Team Diversity</md:title>
-        </col:module>
-        <col:module document="m70696" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Multicultural Teams</md:title>
-        </col:module>
+        <col:module document="m70690"/>
+        <col:module document="m70691"/>
+        <col:module document="m70692"/>
+        <col:module document="m70693"/>
+        <col:module document="m70694"/>
+        <col:module document="m70695"/>
+        <col:module document="m70696"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Communication</md:title>
       <col:content>
-        <col:module document="m70697" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.11">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70698" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>The Process of Managerial Communication</md:title>
-        </col:module>
-        <col:module document="m70699" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.11">
-          <md:title>Types of Communications in Organizations</md:title>
-        </col:module>
-        <col:module document="m70700" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Factors Affecting Communications and the Roles of Managers</md:title>
-        </col:module>
-        <col:module document="m70701" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Managerial Communication and Corporate Reputation</md:title>
-        </col:module>
-        <col:module document="m70702" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.11">
-          <md:title>The Major Channels of Management Communication Are Talking, Listening, Reading, and Writing</md:title>
-        </col:module>
+        <col:module document="m70697"/>
+        <col:module document="m70698"/>
+        <col:module document="m70699"/>
+        <col:module document="m70700"/>
+        <col:module document="m70701"/>
+        <col:module document="m70702"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Leadership</md:title>
       <col:content>
-        <col:module document="m70675" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.10">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70676" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>The Nature of Leadership</md:title>
-        </col:module>
-        <col:module document="m70677" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>The Leadership Process</md:title>
-        </col:module>
-        <col:module document="m70678" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.10">
-          <md:title>Leader Emergence</md:title>
-        </col:module>
-        <col:module document="m70679" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>The Trait Approach to Leadership</md:title>
-        </col:module>
-        <col:module document="m70680" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Behavioral Approaches to Leadership</md:title>
-        </col:module>
-        <col:module document="m70681" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Situational (Contingency) Approaches to Leadership</md:title>
-        </col:module>
-        <col:module document="m70682" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Substitutes for and Neutralizers of Leadership</md:title>
-        </col:module>
-        <col:module document="m70683" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Transformational, Visionary, and Charismatic Leadership</md:title>
-        </col:module>
-        <col:module document="m70684" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.12">
-          <md:title>Leadership Needs in the 21st Century</md:title>
-        </col:module>
+        <col:module document="m70675"/>
+        <col:module document="m70676"/>
+        <col:module document="m70677"/>
+        <col:module document="m70678"/>
+        <col:module document="m70679"/>
+        <col:module document="m70680"/>
+        <col:module document="m70681"/>
+        <col:module document="m70682"/>
+        <col:module document="m70683"/>
+        <col:module document="m70684"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Organizational Power and Politics</md:title>
       <col:content>
-        <col:module document="m73857" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m73860" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.4">
-          <md:title>Power in Interpersonal Relations</md:title>
-        </col:module>
-        <col:module document="m73876" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.4">
-          <md:title>Uses of Power</md:title>
-        </col:module>
-        <col:module document="m73864" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.4">
-          <md:title>Political Behavior in Organizations</md:title>
-        </col:module>
-        <col:module document="m73865" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Limiting the Influence of Political Behavior</md:title>
-        </col:module>
+        <col:module document="m73857"/>
+        <col:module document="m73860"/>
+        <col:module document="m73876"/>
+        <col:module document="m73864"/>
+        <col:module document="m73865"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Conflict and Negotiations</md:title>
       <col:content>
-        <col:module document="m73868" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m73874" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Conflict in Organizations: Basic Considerations</md:title>
-        </col:module>
-        <col:module document="m73875" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Causes of Conflict in Organizations</md:title>
-        </col:module>
-        <col:module document="m73877" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Resolving Conflict in Organizations</md:title>
-        </col:module>
-        <col:module document="m73880" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.4">
-          <md:title>Negotiation Behavior</md:title>
-        </col:module>
+        <col:module document="m73868"/>
+        <col:module document="m73874"/>
+        <col:module document="m73875"/>
+        <col:module document="m73877"/>
+        <col:module document="m73880"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>External and Internal Organizational Environments and Corporate Culture</md:title>
       <col:content>
-        <col:module document="m70725" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.11">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70726" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>The Organization's External Environment</md:title>
-        </col:module>
-        <col:module document="m70727" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.14">
-          <md:title>External Environments and Industries</md:title>
-        </col:module>
-        <col:module document="m70624" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Organizational Designs and Structures</md:title>
-        </col:module>
-        <col:module document="m70728" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.10">
-          <md:title>The Internal Organization and External Environments</md:title>
-        </col:module>
-        <col:module document="m70729" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Corporate Cultures</md:title>
-        </col:module>
-        <col:module document="m70730" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Organizing for Change in the 21st Century</md:title>
-        </col:module>
+        <col:module document="m70725"/>
+        <col:module document="m70726"/>
+        <col:module document="m70727"/>
+        <col:module document="m70624"/>
+        <col:module document="m70728"/>
+        <col:module document="m70729"/>
+        <col:module document="m70730"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Organizational Structure and Change</md:title>
       <col:content>
-        <col:module document="m70657" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.10">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70658" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.11">
-          <md:title>Organizational Structures and Design</md:title>
-        </col:module>
-        <col:module document="m70659" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Organizational Change</md:title>
-        </col:module>
-        <col:module document="m70660" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.10">
-          <md:title>Managing Change</md:title>
-        </col:module>
+        <col:module document="m70657"/>
+        <col:module document="m70658"/>
+        <col:module document="m70659"/>
+        <col:module document="m70660"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Human Resource Management</md:title>
       <col:content>
-        <col:module document="m70661" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70662" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>An Introduction to Human Resource Management</md:title>
-        </col:module>
-        <col:module document="m70663" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Human Resource Management and Compliance</md:title>
-        </col:module>
-        <col:module document="m70664" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Performance Management</md:title>
-        </col:module>
-        <col:module document="m70665" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Influencing Employee Performance and Motivation</md:title>
-        </col:module>
-        <col:module document="m70666" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Building an Organization for the Future</md:title>
-        </col:module>
-        <col:module document="m70667" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Talent Development and Succession Planning</md:title>
-        </col:module>
+        <col:module document="m70661"/>
+        <col:module document="m70662"/>
+        <col:module document="m70663"/>
+        <col:module document="m70664"/>
+        <col:module document="m70665"/>
+        <col:module document="m70666"/>
+        <col:module document="m70667"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Stress and Well Being</md:title>
       <col:content>
-        <col:module document="m73932" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m73934" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Problems of Work Adjustment</md:title>
-        </col:module>
-        <col:module document="m73936" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Organizational Influences on Stress</md:title>
-        </col:module>
-        <col:module document="m73938" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Buffering Effects of Work related Stress</md:title>
-        </col:module>
-        <col:module document="m73923" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Coping with Work related Stress</md:title>
-        </col:module>
+        <col:module document="m73932"/>
+        <col:module document="m73934"/>
+        <col:module document="m73936"/>
+        <col:module document="m73938"/>
+        <col:module document="m73923"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Entrepreneurship</md:title>
       <col:content>
-        <col:module document="m73924" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m73939" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Overview of Entrepreneurship</md:title>
-        </col:module>
-        <col:module document="m73925" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Characteristics of Successful Entrepreneurs</md:title>
-        </col:module>
-        <col:module document="m73940" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Business Model Canvas</md:title>
-        </col:module>
-        <col:module document="m73926" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>New Venture Financing</md:title>
-        </col:module>
-        <col:module document="m73927" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Design Thinking</md:title>
-        </col:module>
-        <col:module document="m73928" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-          <md:title>Optimal Support for Entrepreneurship</md:title>
-        </col:module>
+        <col:module document="m73924"/>
+        <col:module document="m73939"/>
+        <col:module document="m73925"/>
+        <col:module document="m73940"/>
+        <col:module document="m73926"/>
+        <col:module document="m73927"/>
+        <col:module document="m73928"/>
       </col:content>
     </col:subcollection>
-    <col:module document="m73941" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-      <md:title>Scientific Method in Organizational Research</md:title>
-    </col:module>
-    <col:module document="m73942" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.3">
-      <md:title>Scoring Keys for Self-Assessment Exercises</md:title>
-    </col:module>
+    <col:module document="m73941"/>
+    <col:module document="m73942"/>
   </col:content>
 </col:collection>

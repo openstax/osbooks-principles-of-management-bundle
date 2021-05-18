@@ -1,499 +1,233 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:cnx="http://cnx.rice.edu/cnxml" xmlns:cnxorg="http://cnx.rice.edu/system-info" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col28330</md:content-id>
     <md:title>Principles of Management</md:title>
+    <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>c3acb2ab-7d5c-45ad-b3cd-e59673fedd4e</md:uuid>
 <md:slug>principles-management</md:slug>
 </metadata>
-  <col:parameters>
-    <col:param name="print-style" value="principles-management-prod"/>
-  </col:parameters>
   <col:content>
-    <col:module document="m70738" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-      <md:title>Preface</md:title>
-    </col:module>
+    <col:module document="m70738"/>
     <col:subcollection>
       <md:title>Managing and Performing</md:title>
       <col:content>
-        <col:module document="m70721" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m72854" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>What Do Managers Do?</md:title>
-        </col:module>
-        <col:module document="m70722" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>The Roles Managers Play</md:title>
-        </col:module>
-        <col:module document="m70606" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Major Characteristics of the Manager's Job</md:title>
-        </col:module>
+        <col:module document="m70721"/>
+        <col:module document="m72854"/>
+        <col:module document="m70722"/>
+        <col:module document="m70606"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Managerial Decision-Making</md:title>
       <col:content>
-        <col:module document="m70608" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.10">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70732" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Overview of Managerial Decision-Making</md:title>
-        </col:module>
-        <col:module document="m70610" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>How the Brain Processes Information to Make Decisions: Reflective and Reactive Systems</md:title>
-        </col:module>
-        <col:module document="m70611" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Programmed and Nonprogrammed Decisions</md:title>
-        </col:module>
-        <col:module document="m70723" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Barriers to Effective Decision-Making</md:title>
-        </col:module>
-        <col:module document="m70614" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.11">
-          <md:title>Improving the Quality of Decision-Making</md:title>
-        </col:module>
-        <col:module document="m70616" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Group Decision-Making</md:title>
-        </col:module>
+        <col:module document="m70608"/>
+        <col:module document="m70732"/>
+        <col:module document="m70610"/>
+        <col:module document="m70611"/>
+        <col:module document="m70723"/>
+        <col:module document="m70614"/>
+        <col:module document="m70616"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>The History of Management</md:title>
       <col:content>
-        <col:module document="m70731" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70617" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>The Early Origins of Management</md:title>
-        </col:module>
-        <col:module document="m70618" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>The Italian Renaissance</md:title>
-        </col:module>
-        <col:module document="m70619" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>The Industrial Revolution</md:title>
-        </col:module>
-        <col:module document="m70724" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>Taylor-Made Management</md:title>
-        </col:module>
-        <col:module document="m70620" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>Administrative and Bureaucratic Management</md:title>
-        </col:module>
-        <col:module document="m70622" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Human Relations Movement</md:title>
-        </col:module>
-        <col:module document="m70623" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>Contingency and System Management</md:title>
-        </col:module>
+        <col:module document="m70731"/>
+        <col:module document="m70617"/>
+        <col:module document="m70618"/>
+        <col:module document="m70619"/>
+        <col:module document="m70724"/>
+        <col:module document="m70620"/>
+        <col:module document="m70622"/>
+        <col:module document="m70623"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>External and Internal Organizational Environments and Corporate Culture</md:title>
       <col:content>
-        <col:module document="m70725" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.11">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70726" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>The Organization's External Environment</md:title>
-        </col:module>
-        <col:module document="m70727" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.12">
-          <md:title>External Environments and Industries</md:title>
-        </col:module>
-        <col:module document="m70624" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Organizational Designs and Structures</md:title>
-        </col:module>
-        <col:module document="m70728" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.10">
-          <md:title>The Internal Organization and External Environments</md:title>
-        </col:module>
-        <col:module document="m70729" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Corporate Cultures</md:title>
-        </col:module>
-        <col:module document="m70730" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Organizing for Change in the 21st Century</md:title>
-        </col:module>
+        <col:module document="m70725"/>
+        <col:module document="m70726"/>
+        <col:module document="m70727"/>
+        <col:module document="m70624"/>
+        <col:module document="m70728"/>
+        <col:module document="m70729"/>
+        <col:module document="m70730"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Ethics, Corporate Responsibility, and Sustainability</md:title>
       <col:content>
-        <col:module document="m70625" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70626" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Ethics and Business Ethics Defined</md:title>
-        </col:module>
-        <col:module document="m70627" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Dimensions of Ethics: The Individual Level</md:title>
-        </col:module>
-        <col:module document="m70628" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Ethical Principles and Responsible Decision-Making</md:title>
-        </col:module>
-        <col:module document="m70629" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Leadership: Ethics at the Organizational Level</md:title>
-        </col:module>
-        <col:module document="m70630" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Ethics, Corporate Culture, and Compliance</md:title>
-        </col:module>
-        <col:module document="m70631" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Corporate Social Responsibility (CSR)</md:title>
-        </col:module>
-        <col:module document="m70632" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Ethics around the Globe</md:title>
-        </col:module>
-        <col:module document="m70633" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Emerging Trends in Ethics, CSR, and Compliance</md:title>
-        </col:module>
+        <col:module document="m70625"/>
+        <col:module document="m70626"/>
+        <col:module document="m70627"/>
+        <col:module document="m70628"/>
+        <col:module document="m70629"/>
+        <col:module document="m70630"/>
+        <col:module document="m70631"/>
+        <col:module document="m70632"/>
+        <col:module document="m70633"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>International Management</md:title>
       <col:content>
-        <col:module document="m70634" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70734" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>Importance of International Management</md:title>
-        </col:module>
-        <col:module document="m70635" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Hofstede's Cultural Framework</md:title>
-        </col:module>
-        <col:module document="m70636" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>The GLOBE Framework</md:title>
-        </col:module>
-        <col:module document="m70733" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Cultural Stereotyping and Social Institutions</md:title>
-        </col:module>
-        <col:module document="m70735" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>Cross-Cultural Assignments</md:title>
-        </col:module>
-        <col:module document="m70637" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>Strategies for Expanding Globally</md:title>
-        </col:module>
-        <col:module document="m70638" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>The Necessity of Global Markets</md:title>
-        </col:module>
+        <col:module document="m70634"/>
+        <col:module document="m70734"/>
+        <col:module document="m70635"/>
+        <col:module document="m70636"/>
+        <col:module document="m70733"/>
+        <col:module document="m70735"/>
+        <col:module document="m70637"/>
+        <col:module document="m70638"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Entrepreneurship</md:title>
       <col:content>
-        <col:module document="m70639" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70736" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Entrepreneurship</md:title>
-        </col:module>
-        <col:module document="m70640" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Characteristics of Successful Entrepreneurs</md:title>
-        </col:module>
-        <col:module document="m70641" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Small Business</md:title>
-        </col:module>
-        <col:module document="m70737" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Start Your Own Business</md:title>
-        </col:module>
-        <col:module document="m73704" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Managing a Small Business</md:title>
-        </col:module>
-        <col:module document="m73708" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>The Large Impact of Small Business</md:title>
-        </col:module>
-        <col:module document="m73709" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>The Small Business Administration</md:title>
-        </col:module>
-        <col:module document="m73719" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Trends in Entrepreneurship and Small-Business Ownership</md:title>
-        </col:module>
+        <col:module document="m70639"/>
+        <col:module document="m70736"/>
+        <col:module document="m70640"/>
+        <col:module document="m70641"/>
+        <col:module document="m70737"/>
+        <col:module document="m73704"/>
+        <col:module document="m73708"/>
+        <col:module document="m73709"/>
+        <col:module document="m73719"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Strategic Analysis: Understanding a Firm’s Competitive Environment</md:title>
       <col:content>
-        <col:module document="m70642" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70643" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>Gaining Advantages by Understanding the Competitive Environment</md:title>
-        </col:module>
-        <col:module document="m70644" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Using SWOT for Strategic Analysis</md:title>
-        </col:module>
-        <col:module document="m70645" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>A Firm's External Macro Environment: PESTEL</md:title>
-        </col:module>
-        <col:module document="m70646" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>A Firm's Micro Environment: Porter's Five Forces</md:title>
-        </col:module>
-        <col:module document="m70647" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>The Internal Environment</md:title>
-        </col:module>
-        <col:module document="m70648" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Competition, Strategy, and Competitive Advantage</md:title>
-        </col:module>
-        <col:module document="m70649" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Strategic Positioning</md:title>
-        </col:module>
+        <col:module document="m70642"/>
+        <col:module document="m70643"/>
+        <col:module document="m70644"/>
+        <col:module document="m70645"/>
+        <col:module document="m70646"/>
+        <col:module document="m70647"/>
+        <col:module document="m70648"/>
+        <col:module document="m70649"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>The Strategic Management Process: Achieving and Sustaining Competitive Advantage</md:title>
       <col:content>
-        <col:module document="m70650" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70651" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Strategic Management</md:title>
-        </col:module>
-        <col:module document="m70652" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Firm Vision and Mission</md:title>
-        </col:module>
-        <col:module document="m70653" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>The Role of Strategic Analysis in Formulating a Strategy</md:title>
-        </col:module>
-        <col:module document="m70654" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Strategic Objectives and Levels of Strategy</md:title>
-        </col:module>
-        <col:module document="m70655" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Planning Firm Actions to Implement Strategies</md:title>
-        </col:module>
-        <col:module document="m70656" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Measuring and Evaluating Strategic Performance</md:title>
-        </col:module>
+        <col:module document="m70650"/>
+        <col:module document="m70651"/>
+        <col:module document="m70652"/>
+        <col:module document="m70653"/>
+        <col:module document="m70654"/>
+        <col:module document="m70655"/>
+        <col:module document="m70656"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Organizational Structure and Change</md:title>
       <col:content>
-        <col:module document="m70657" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.10">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70658" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.10">
-          <md:title>Organizational Structures and Design</md:title>
-        </col:module>
-        <col:module document="m70659" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Organizational Change</md:title>
-        </col:module>
-        <col:module document="m70660" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.11">
-          <md:title>Managing Change</md:title>
-        </col:module>
+        <col:module document="m70657"/>
+        <col:module document="m70658"/>
+        <col:module document="m70659"/>
+        <col:module document="m70660"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Human Resource Management</md:title>
       <col:content>
-        <col:module document="m70661" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70662" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>An Introduction to Human Resource Management</md:title>
-        </col:module>
-        <col:module document="m70663" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Human Resource Management and Compliance</md:title>
-        </col:module>
-        <col:module document="m70664" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Performance Management</md:title>
-        </col:module>
-        <col:module document="m70665" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Influencing Employee Performance and Motivation</md:title>
-        </col:module>
-        <col:module document="m70666" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Building an Organization for the Future</md:title>
-        </col:module>
-        <col:module document="m70667" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Talent Development and Succession Planning</md:title>
-        </col:module>
+        <col:module document="m70661"/>
+        <col:module document="m70662"/>
+        <col:module document="m70663"/>
+        <col:module document="m70664"/>
+        <col:module document="m70665"/>
+        <col:module document="m70666"/>
+        <col:module document="m70667"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Diversity in Organizations</md:title>
       <col:content>
-        <col:module document="m70668" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70669" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>An Introduction to Workplace Diversity</md:title>
-        </col:module>
-        <col:module document="m70670" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.12">
-          <md:title>Diversity and the Workforce</md:title>
-        </col:module>
-        <col:module document="m70671" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.13">
-          <md:title>Diversity and Its Impact on Companies</md:title>
-        </col:module>
-        <col:module document="m72856" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.10">
-          <md:title>Challenges of Diversity</md:title>
-        </col:module>
-        <col:module document="m70672" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Key Diversity Theories</md:title>
-        </col:module>
-        <col:module document="m70673" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Benefits and Challenges of Workplace Diversity</md:title>
-        </col:module>
-        <col:module document="m70674" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Recommendations for Managing Diversity</md:title>
-        </col:module>
+        <col:module document="m70668"/>
+        <col:module document="m70669"/>
+        <col:module document="m70670"/>
+        <col:module document="m70671"/>
+        <col:module document="m72856"/>
+        <col:module document="m70672"/>
+        <col:module document="m70673"/>
+        <col:module document="m70674"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Leadership</md:title>
       <col:content>
-        <col:module document="m70675" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.10">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70676" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>The Nature of Leadership</md:title>
-        </col:module>
-        <col:module document="m70677" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>The Leadership Process</md:title>
-        </col:module>
-        <col:module document="m70678" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.10">
-          <md:title>Leader Emergence</md:title>
-        </col:module>
-        <col:module document="m70679" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>The Trait Approach to Leadership</md:title>
-        </col:module>
-        <col:module document="m70680" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Behavioral Approaches to Leadership</md:title>
-        </col:module>
-        <col:module document="m70681" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Situational (Contingency) Approaches to Leadership</md:title>
-        </col:module>
-        <col:module document="m70682" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Substitutes for and Neutralizers of Leadership</md:title>
-        </col:module>
-        <col:module document="m70683" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Transformational, Visionary, and Charismatic Leadership</md:title>
-        </col:module>
-        <col:module document="m70684" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.12">
-          <md:title>Leadership Needs in the 21st Century</md:title>
-        </col:module>
+        <col:module document="m70675"/>
+        <col:module document="m70676"/>
+        <col:module document="m70677"/>
+        <col:module document="m70678"/>
+        <col:module document="m70679"/>
+        <col:module document="m70680"/>
+        <col:module document="m70681"/>
+        <col:module document="m70682"/>
+        <col:module document="m70683"/>
+        <col:module document="m70684"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Work Motivation for Performance</md:title>
       <col:content>
-        <col:module document="m70685" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.10">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70686" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Motivation: Direction and Intensity</md:title>
-        </col:module>
-        <col:module document="m70687" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.12">
-          <md:title>Content Theories of Motivation</md:title>
-        </col:module>
-        <col:module document="m70688" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Process Theories of Motivation</md:title>
-        </col:module>
-        <col:module document="m70689" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Recent Research on Motivation Theories</md:title>
-        </col:module>
+        <col:module document="m70685"/>
+        <col:module document="m70686"/>
+        <col:module document="m70687"/>
+        <col:module document="m70688"/>
+        <col:module document="m70689"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Managing Teams</md:title>
       <col:content>
-        <col:module document="m70690" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70691" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Teamwork in the Workplace</md:title>
-        </col:module>
-        <col:module document="m70692" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Team Development Over Time</md:title>
-        </col:module>
-        <col:module document="m70693" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>Things to Consider When Managing Teams</md:title>
-        </col:module>
-        <col:module document="m70694" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Opportunities and Challenges to Team Building</md:title>
-        </col:module>
-        <col:module document="m70695" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Team Diversity</md:title>
-        </col:module>
-        <col:module document="m70696" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>Multicultural Teams</md:title>
-        </col:module>
+        <col:module document="m70690"/>
+        <col:module document="m70691"/>
+        <col:module document="m70692"/>
+        <col:module document="m70693"/>
+        <col:module document="m70694"/>
+        <col:module document="m70695"/>
+        <col:module document="m70696"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Managerial Communication</md:title>
       <col:content>
-        <col:module document="m70697" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.11">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70698" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.9">
-          <md:title>The Process of Managerial Communication</md:title>
-        </col:module>
-        <col:module document="m70699" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.11">
-          <md:title>Types of Communications in Organizations</md:title>
-        </col:module>
-        <col:module document="m70700" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Factors Affecting Communications and the Roles of Managers</md:title>
-        </col:module>
-        <col:module document="m70701" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Managerial Communication and Corporate Reputation</md:title>
-        </col:module>
-        <col:module document="m70702" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.11">
-          <md:title>The Major Channels of Management Communication Are Talking, Listening, Reading, and Writing</md:title>
-        </col:module>
+        <col:module document="m70697"/>
+        <col:module document="m70698"/>
+        <col:module document="m70699"/>
+        <col:module document="m70700"/>
+        <col:module document="m70701"/>
+        <col:module document="m70702"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Organizational Planning and Controlling</md:title>
       <col:content>
-        <col:module document="m70703" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70704" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Is Planning Important</md:title>
-        </col:module>
-        <col:module document="m70705" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>The Planning Process</md:title>
-        </col:module>
-        <col:module document="m70706" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Types of Plans</md:title>
-        </col:module>
-        <col:module document="m70707" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.5">
-          <md:title>Goals or Outcome Statements</md:title>
-        </col:module>
-        <col:module document="m70708" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Formal Organizational Planning in Practice</md:title>
-        </col:module>
-        <col:module document="m70709" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Employees' Responses to Planning</md:title>
-        </col:module>
-        <col:module document="m70710" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Management by Objectives: A Planning and Control Technique</md:title>
-        </col:module>
-        <col:module document="m70711" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.8">
-          <md:title>The Control- and Involvement-Oriented Approaches to Planning and Controlling</md:title>
-        </col:module>
+        <col:module document="m70703"/>
+        <col:module document="m70704"/>
+        <col:module document="m70705"/>
+        <col:module document="m70706"/>
+        <col:module document="m70707"/>
+        <col:module document="m70708"/>
+        <col:module document="m70709"/>
+        <col:module document="m70710"/>
+        <col:module document="m70711"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Management of Technology and Innovation</md:title>
       <col:content>
-        <col:module document="m70712" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Introduction</md:title>
-        </col:module>
-        <col:module document="m70713" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>MTI—Its Importance Now and In the Future</md:title>
-        </col:module>
-        <col:module document="m70714" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Developing Technology and Innovation</md:title>
-        </col:module>
-        <col:module document="m70715" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>External Sources of Technology and Innovation</md:title>
-        </col:module>
-        <col:module document="m70716" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.7">
-          <md:title>Internal Sources of Technology and Innovation</md:title>
-        </col:module>
-        <col:module document="m70717" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Management Entrepreneurship Skills for Technology and Innovation</md:title>
-        </col:module>
-        <col:module document="m70718" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Skills Needed for MTI</md:title>
-        </col:module>
-        <col:module document="m70719" version="latest" repository="https://legacy.cnx.org/content" cnxorg:version-at-this-collection-version="1.6">
-          <md:title>Managing Now for Future Technology and Innovation</md:title>
-        </col:module>
+        <col:module document="m70712"/>
+        <col:module document="m70713"/>
+        <col:module document="m70714"/>
+        <col:module document="m70715"/>
+        <col:module document="m70716"/>
+        <col:module document="m70717"/>
+        <col:module document="m70718"/>
+        <col:module document="m70719"/>
       </col:content>
     </col:subcollection>
   </col:content>
