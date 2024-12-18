@@ -42,7 +42,7 @@
 <media id="ch08media03" alt="A graph plots strictness, central tendency, and leniency as parabolic curves." longdesc="C8-3-longdesc.txt"><image mime-type="image/png" src="../../media/Exhibit 8-3 Examples of Strictness, Central Tendency, and Leniency Errors.png"/></media>
 <caption>(Attribution: Copyright Rice University, OpenStax, under CC BY-NC-SA 4.0 license)</caption>
 </figure>
-<para id="fs-idm344017216"><emphasis effect="bold">Strictness or Leniency Error.</emphasis> A related rating problem exists when a supervisor is overly strict or overly lenient in evaluations (see <emphasis effect="bold"><link target-id="ch08fig03" document=""/></emphasis>). In college classrooms, we hear of professors who are “tough graders” or, conversely, “easy A’s.” Similar situations exist in the workplace, where some supervisors see most subordinates as not measuring up to their high standards, whereas other supervisors see most subordinates as deserving of a high rating. As with central tendency error, <term id="term-00005">strictness error</term> and <term id="term-00006">leniency error</term> fail to distinguish adequately between good and bad performers and instead relegate almost everyone to the same or related categories.</para>
+<para id="fs-idm344017216"><emphasis effect="bold">Strictness or Leniency Error.</emphasis> A related rating problem exists when a supervisor is overly strict or overly lenient in evaluations (see <emphasis effect="bold"><link target-id="ch08fig03" document=""/></emphasis>). In college classrooms, we hear of professors who are “tough graders” or, conversely, “easy A’s.” Similar situations exist in the workplace, where some supervisors see most subordinates as not measuring up to their high standards, whereas other supervisors see most subordinates as deserving of a high rating. However, one cannot be overly strict and overly lenient at the same time or to the same person. Thus, while you can only be one side of the spectrum, what impacts whether one is overly strict or lenient could be based on the situation or the individual being graded. As with central tendency error, <term id="term-00005">strictness error</term> and <term id="term-00006">leniency error</term> fail to distinguish adequately between good and bad performers and instead relegate almost everyone to the same or related categories.</para>
 <para id="fs-idm324368112"><emphasis effect="bold">Halo Effect.</emphasis> The <term id="term-00007">halo effect</term> exists where a supervisor assigns the same rating to each factor being evaluated for an individual. For example, an employee rated above average on quantity of performance may also be rated above average on quality of performance, interpersonal competence, attendance, and promotion readiness. In other words, the supervisor cannot effectively differentiate between relatively discrete categories and instead gives a global rating.</para>
 <para id="fs-idm342585728">These types of bias are based on our perceptions of others. The halo effect occurs when managers have an overly positive view of a particular employee. This can impact the objectivity of reviews, with managers consistently giving an employee high ratings and failing to recognize areas for improvement. </para>
 <para id="fs-idm350101440">Whether positive or negative, we also have a natural tendency to confirm our preconceived beliefs about people in the way we interpret or recall performance, which is known as confirmatory bias.</para>
@@ -85,7 +85,7 @@
 <definition id="fs-idm333777056"><term>Halo effect</term>
 <meaning id="fs-idm340199424">Results in a supervisor assigning the same rating to each factor being evaluated for an individual.</meaning>
 </definition>
-<definition id="fs-idm344241968"><term>Leniency error</term>
+<definition id="fs-idm344241968"><term>Strictness or Leniency error</term>
 <meaning id="fs-idm339997392">Fails to distinguish adequately between good and bad performers and instead relegates almost everyone to the same or related categories.</meaning>
 </definition>
 <definition id="fs-idm338233248"><term>Performance appraisals</term>
@@ -99,9 +99,6 @@
 </definition>
 <definition id="fs-idm351054704"><term>Validity</term>
 <meaning id="fs-idm348824144">The extent to which an instrument actually measures what it intends to measure.</meaning>
-</definition>
-<definition id="fs-idm342042000"><term>Strictness error</term>
-<meaning id="fs-idm340959584">Fails to distinguish adequately between good and bad performers and instead relegates almost everyone to the same or related categories.</meaning>
 </definition>
 </glossary>
 
