@@ -117,11 +117,12 @@
 <table id="ch14untab01" summary="" class="unnumbered"><label/>
 <tgroup cols="1">
 <colspec colnum="1" colname="c1"/>
-<tbody>
-<row>
+<thead><row>
 <entry>$500</entry>
 <entry>$600</entry>
-</row>
+</row></thead>
+<tbody>
+
 <row>
 <entry>John:</entry>
 <entry>&lt;Mary:</entry>
